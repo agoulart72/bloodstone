@@ -1,0 +1,9 @@
+baseURL = 'https://rpg.theater/bloodstone/'
+languageCode = 'en-us'
+title = 'RPG Theater - Bloodstone'
+ignoreLogs = ['warning-goldmark-raw-html']
+[module]
+[[module.mounts]]
+source = 'content'
+target = 'content'
+excludeFiles = ['templates/**']
