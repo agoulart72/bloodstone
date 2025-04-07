@@ -11,8 +11,34 @@
     <loc>http://localhost:1313/bloodstone/posts/test-post/</loc>
     <lastmod>2025-04-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/barbarian/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/bard/</loc>
+  </url><url>
     <loc>http://localhost:1313/bloodstone/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/cleric/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/druid/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/fighter/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/monk/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/paladin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/ranger/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/rogue/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/sorcerer/</loc>
+  </url><url>
     <loc>http://localhost:1313/bloodstone/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/warlock/</loc>
+  </url><url>
+    <loc>http://localhost:1313/bloodstone/classes/wizard/</loc>
   </url>
 </urlset>

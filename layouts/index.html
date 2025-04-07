@@ -1,0 +1,36 @@
+{{ define "main" }}
+<main aria-role="main">
+    <div class="homepage-content">
+        {{ $imgDnD5 := resources.Get "images/design/DD5th.png" }}
+        <div><img src="{{ $imgDnD5.Permalink }}" style="max-height: 100px; position: absolute; "/></div>
+        <p class="center">
+            {{ $imgLogo := resources.Get "images/design/brlogo2.gif" }}
+            <img src="{{ $imgLogo.Permalink }}" alt="Bloodstone"/>
+        </p>
+        <ul class="menu container">
+            {{ $imgIcon1 := resources.Get "images/icon/cosmo.png" }}
+            <li class="box"><div class="insideBox"><a href="cosmogony"><img src="{{ $imgIcon1.Permalink }}" class="icon"/><br/> Cosmogony</a></div></li>
+            {{ $imgIcon2 := resources.Get "images/icon/rules3.png" }}
+            <li class="box"><div class="insideBox"><a href="rules"><img src="{{ $imgIcon2.Permalink }}" class="icon"/><br/> House Rules</a></div></li>
+            {{ $imgIcon3 := resources.Get "images/icon/book2.png" }}
+            <li class="box"><div class="insideBox"><a href="books"><img src="{{ $imgIcon3.Permalink }}" class="icon"/><br/> Livros</a></div></li>
+            {{ $imgIcon4 := resources.Get "images/icon/races2.png" }}
+            <li class="box"><div class="insideBox"><a href="races"><img src="{{ $imgIcon4.Permalink }}" class="icon"/><br/> Ra&ccedil;as</a></div></li>
+            {{ $imgIcon5 := resources.Get "images/icon/classes.png" }}
+            <li class="box"><div class="insideBox"><a href="classes"><img src="{{ $imgIcon5.Permalink }}" class="icon"/><br/> Classes</a></div></li>
+            {{ $imgIcon6 := resources.Get "images/icon/religion.png" }}
+            <li class="box"><div class="insideBox"><a href="religion"><img src="{{ $imgIcon6.Permalink }}" class="icon"/><br/> Religi&atilde;o</a></div></li>
+            {{ $imgIcon7 := resources.Get "images/icon/skill3.png" }}
+            <li class="box"><div class="insideBox"><a href="skills"><img src="{{ $imgIcon7.Permalink }}" class="icon"/><br/> Per&iacute;cias</a></div></li>
+            {{ $imgIcon8 := resources.Get "images/icon/tactics_icon.png" }}
+            <li class="box"><div class="insideBox"><a href="feats"><img src="{{ $imgIcon8.Permalink }}" class="icon"/><br/> Talentos </a></div></li>
+            {{ $imgIcon9 := resources.Get "images/icon/magic.png" }}
+            <li class="box"><div class="insideBox"><a href="magic"><img src="{{ $imgIcon9.Permalink }}" class="icon"/><br/> Magia </a></div></li>
+            {{ $imgIcon10 := resources.Get "images/icon/campaign.png" }}
+            <li class="box"><div class="insideBox"><a href="campaign"><img src="{{ $imgIcon10.Permalink }}" class="icon"/><br/> Campanhas </a></div></li>
+            {{ $imgIcon11 := resources.Get "images/icon/scroll2.png" }}
+            <li class="box"><div class="insideBox"><a href="CharacterRecordSheet.pdf"><img src="{{ $imgIcon11.Permalink }}" class="icon"/><br/> Ficha de Personagem</a></div></li>      
+        </ul>
+    </div>
+</main>
+{{end}}

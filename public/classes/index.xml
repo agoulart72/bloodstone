@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classes on RPG Theater - Bloodstone</title>
+    <link>http://localhost:1313/bloodstone/classes/</link>
+    <description>Recent content in Classes on RPG Theater - Bloodstone</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/bloodstone/classes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Barbarian</title>
+      <link>http://localhost:1313/bloodstone/classes/barbarian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/barbarian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bard</title>
+      <link>http://localhost:1313/bloodstone/classes/bard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/bard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cleric</title>
+      <link>http://localhost:1313/bloodstone/classes/cleric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/cleric/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Druid</title>
+      <link>http://localhost:1313/bloodstone/classes/druid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/druid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fighter</title>
+      <link>http://localhost:1313/bloodstone/classes/fighter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/fighter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monk</title>
+      <link>http://localhost:1313/bloodstone/classes/monk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/monk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Paladin</title>
+      <link>http://localhost:1313/bloodstone/classes/paladin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/paladin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ranger</title>
+      <link>http://localhost:1313/bloodstone/classes/ranger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/ranger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rogue</title>
+      <link>http://localhost:1313/bloodstone/classes/rogue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/rogue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sorcerer</title>
+      <link>http://localhost:1313/bloodstone/classes/sorcerer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/sorcerer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Warlock</title>
+      <link>http://localhost:1313/bloodstone/classes/warlock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/warlock/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wizard</title>
+      <link>http://localhost:1313/bloodstone/classes/wizard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/bloodstone/classes/wizard/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
