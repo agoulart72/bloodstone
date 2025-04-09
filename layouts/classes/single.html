@@ -1,0 +1,37 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "main" }}
+  <h1 style="text-align: center;" class="shadowText">{{ .Title }}</h1> 
+  {{ $imgBar := resources.Get "images/design/decorated.jpg" }}
+  <div style="height:10px;background-image:url('{{ $imgBar.Permalink }}')"></div>
+  
+  {{ $params := .Params }}
+  {{ $sectionDelimiter := "<!-- ### -->"}}
+  {{ $sectionsContents := split .RawContent $sectionDelimiter }}
+  <div style="align-content: center; width: 90%; max-width: 1250px; margin:auto;">
+    <p>{{ index $sectionsContents 0 | .RenderString }}</p>
+  </div>
+
+  <div class="container" style="width: 90%;">
+    <div style="flex: 0 0 40%; text-align: center;">
+    {{ with .Params.image2 }}
+        {{ if (fileExists (printf "assets/images/classes/%s" .)) }}
+          {{ $img := resources.Get (printf "images/classes/%s" .) }}
+            <img src="{{ $img.Permalink }}" alt="{{ $params.title }}" style="max-width: 400px; max-height: 600px;" />
+          {{ else }}
+            {{ . }}
+        {{ end }}
+      {{end}}    
+    </div>
+    <div class="fancyBorders" style="flex: 1;">
+        <p>{{ index $sectionsContents 1 | .RenderString }}</p>
+    </div>
+  </div>
+
+  <div style="height:10px;background-image:url('{{ $imgBar.Permalink }}')"></div>
+  <div class="fancyBorders" style="float: left; margin-right: 25px;">
+    <p>{{ index $sectionsContents 2 | .RenderString }}</p>
+  </div>
+  <p>{{ index $sectionsContents 3 | .RenderString }}</p>
+{{ end }}

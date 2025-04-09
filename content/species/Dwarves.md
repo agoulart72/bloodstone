@@ -1,9 +1,4 @@
 
-- Viajam em gigantescos barcos terrestres, eles perderam suas antigas fortalezas para os orcs a muitos anos.
-- Seus barcos sao impulsionados por algum tipo de motor tecnomagico (desenvolver mais)
-- Dwarves sao resistentes a magia
-
-===
 ### Dwarves
 
 The dwarves are an ancient and proud race of craftsmen and engineers, known for their skill in metallurgy and stonework. Unlike traditional dwarves, they do not live underground, but instead roam the countryside in massive landships—gigantic wheeled vehicles that serve as both homes and mobile workshops. These landships are powered by ancient engines, once shared by all clans but now modified by each clan to fit their unique needs and preferences.
