@@ -21,8 +21,9 @@ Sorcerers são magos que possuem a força da magia em seu sangue. Porém seu apr
 - (A) Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer’s Pack, and 28 GP; 
 - (B) 50 GP
 <!-- ### -->
+
 | Level | PB   | Class Features                 | Cantrips | Prepared Spells | Spell Points | Spell Limit |
-|:-----:|:----:|--------------------------------|:--------:|:---------------:|:------------:|:----------:|
+| :-----: | :----: | -------------------------------- | :--------: |:---------------: | :------------: | :----------: |
 |  			1 		   |  			+2 		 |  			Spellcasting, Innate Sorcery 		 |  			4 		      |  			2 		             |  			2 		          |  			1 		         |
 |  			2 		   |  			+2 		 |  			Font of Magic, Metamagic 		     |  			4 		      |  			4 		             |  			4 		          |  			1 		         |
 |  			3 		   |  			+2 		 |  			Sorcerer Subclass 		            |  			4 		      |  			6 		             |  			7 		          |  			2 		         |
@@ -56,22 +57,12 @@ Changing Your Prepared Spells. Whenever you gain a Sorcerer level, you can repla
 Spellcasting Ability. Charisma is your spellcasting ability for your Sorcerer spells.
 Spellcasting Focus. You can use an Arcane Focus as a Spellcasting Focus for your Sorcerer spells.
 Spell Points. The Sorcerer table shows the number of Sorcery Points that you have to cast the Sorcerer spells you know of 1st-level and higher. To cast a Sorcerer spell, you must expend the amount of Sorcery Points indicated in the table below. You regain all expended Sorcery Points each time you finish a long rest.
-Spell Level
-Spell Points
-Spell Level
-Spell Points
-Cantrip
--
-3th
-5
-1st
-2
-4th
-6
-2nd
-3
-5th
-7
+
+| Spell Level | Spell Points | Spell Level | Spell Points | 
+| :---------: | :----------: | :----------: | :----------: | 
+| Cantrip | - | 3th | 5 |
+| 1st | 2 | 4th | 6 |
+| 2nd | 3 | 5th | 7 |
 
 Note: When you cast a spell using spell points, the behaviour is exactly the same as another spellcasters using spell slots. That means that you are limited to cast only one spell per turn using spell points, and is affected in the same way by any other rules that references spell slots. 
 Spell Limit.Your Sorcerer level limits the potency of spells that you can produce, as shown in the Spell Limit column of the Sorcerer Table. When a feature allows you to expend Spell Points, you can never expend more Spell Points on that feature than it costs to cast a spell equal to your Spell Limit level.
@@ -83,18 +74,13 @@ Level 1: Innate Sorcery
 
 The DC of this check is based on the level of the spell according to the following table : 
 
-Spell Level
-Casting DC
-1st
-10
-2nd
-12
-3rd
-15
-4th
-17
-5th
-20
+| Spell Level | Casting DC |
+| :---------: | :--------: |
+|     1st     |     10     |
+|     2nd     |     12     |
+|     3rd     |     15     |
+|     4th     |     17     |
+|     5th     |     20     |
 
 Success. If the roll succeeds, the spell is cast as normal, and you don’t have to spend any spell points.
 Failure. If the check fails you may spend spell points as normal for the spell to succeed, otherwise the spell fizzles and is wasted with no effect.
