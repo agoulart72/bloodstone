@@ -19,7 +19,7 @@ Starting Equipment	Choose A or B: (A) Spear, 5 Daggers, Artisan’s Tools or Mus
 
 <!-- ### -->
 
-|Level|Proficiency Bonus|Class Features|Martial Arts|Focus Points|Unarmored Movement|
+| Level | Proficiency Bonus | Class Features | Martial Arts | Focus Points |Unarmored Movement|
 |---|---|---|---|---|---|
 |1|+2|Martial Arts, Unarmored Defense|1d6|—|—|
 |2|+2|Monk’s Focus, Unarmored Movement, Uncanny Metabolism|1d6|2|+10 ft.|
