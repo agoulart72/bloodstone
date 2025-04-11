@@ -162,3 +162,86 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 #### Level 20: Primal Champion
 
 You embody primal power. Your Strength and Constitution scores increase by 4, and their maximum is now 25.
+
+<!-- ### -->
+
+### Subclasses
+
+## Path of the Berserker
+
+_Channel Rage into Violent Fury_
+
+Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them.
+
+#### Level 3: Frenzy
+
+If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage Damage bonus, and add them together. The damage has the same type as the weapon or Unarmed Strike used for the attack.
+
+#### Level 6: Mindless Rage
+
+You have Immunity to the [Charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition) and [Frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) conditions while your Rage is active. If you’re [Charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition) or [Frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) when you enter your Rage, the condition ends on you.
+
+#### Level 10: Retaliation
+
+When you take damage from a creature that is within 5 feet of you, you can take a Reaction to make one melee attack against that creature, using a weapon or an Unarmed Strike.
+
+#### Level 14: Intimidating Presence
+
+As a Bonus Action, you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [Emanation](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#EmanationAreaofEffect) originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, a creature has the [Frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition for 1 minute. At the end of each of the [Frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) creature’s turns, the creature repeats the save, ending the effect on itself on a success.
+
+Once you use this feature, you can’t use it again until you finish a Long Rest unless you expend a use of your Rage (no action required) to restore your use of it.
+
+<!-- ### -->
+
+## Path of the Wild Heart
+
+## Path of the World Tree
+
+## Path of the Zealot
+
+<!-- ### -->
+
+## Ancestral Guardian (XGE)
+
+## Storm Herald (XGE)
+
+## Battlerager (Custom)
+
+Original:
+### Restriction: Dwarves Only
+
+Only dwarves can follow the Path of the Battlerager. The battlerager fills a particular niche in dwarven society and culture.
+
+Your DM can lift this restriction to better suit the campaign. The restriction exists for the Forgotten Realms. It might not apply to your DM's setting or your DM's version of the Realms.
+
+### Battlerager Armor
+
+When you choose this path at 3rd level, you gain the ability to use [spiked armor](http://dnd5e.wikidot.com/armor) as a weapon.
+
+While you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes against a target within 5 feet of you. If the attack hits, the spikes deal 1d4 piercing damage. You use your Strength modifier for the attack and damage rolls.
+
+Additionally, when you use the Attack action to grapple a creature, the target takes 3 piercing damage if your grapple check succeeds.
+
+### Reckless Abandon
+
+Beginning at 6th level, when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.
+
+### Battlerager Charge
+
+Beginning at 10th level, you can take the Dash action as a bonus action while you are raging.
+
+### Spiked Retribution
+
+Starting at 14th level, when a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't incapacitated, and are wearing spiked armor.
+
+Previous Version:
+
+- **Battlerager Armor.** When you choose this path at 3rd level, you gain proficiency with heavy armor, and all forms of spiked armor, and the ability to use it as a weapon. You suffer no penalties for sleeping in armor, and you can enter a Rage while wearing heavy armor. In addition, your speed is not reduced by wearing heavy armor, you can still benefit from raging while wearing heavy armor, and you do not count the weight of any worn armor when determining your carrying capacity.
+- **Spiked Retribution.** At 3rd level, while you are wearing spiked armor and raging, creatures that hit you with a melee attack while within 5 feet suffer piercing damage equal to your rage damage bonus. Additionally, when you use the Attack action to grapple a creature, the target takes piercing damage equal to your Strength modifier if your grapple check succeeds.
+- **Reckless Abandon.** At 6th level, whenever you use the Reckless Attack feature, you gain temporary hit points equal to your Proficiency Bonus plus your Constitution modifier. They vanish if any of them are left when your rage ends. You may use this feature once per rage.
+- **Battlerager Charge.** Beginning at 10th level, you can take the Dash action as a bonus action while you are raging.
+- **Barbed Blitz.** Starting at 14th level, whenever you are raging and move in a straight line on your turn, you may make one extra attack against each enemy that is within 5ft of the path you take, this attack causes 1d10 piercing damage plus your rage bonus if it hits. Once you use this feature you can not use it again until you finish a short or long rest.
+
+### Spiked Armor
+
+When wearing Spiked Armor a proficient creature can use it to make melee weapon attacks dealing 1d6 piercing damage. You use your Strength modifier for the attack and damage rolls. All spiked armors give disadvantage on Stealth checks. You can purchase or construct spiked variants of leather armor, hide armor, breastplate, half-plate, and plate. As well as shields. These versions of the items cost and weigh an additional 25% but have the same statistics and properties otherwise.
