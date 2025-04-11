@@ -245,3 +245,37 @@ Previous Version:
 ### Spiked Armor
 
 When wearing Spiked Armor a proficient creature can use it to make melee weapon attacks dealing 1d6 piercing damage. You use your Strength modifier for the attack and damage rolls. All spiked armors give disadvantage on Stealth checks. You can purchase or construct spiked variants of leather armor, hide armor, breastplate, half-plate, and plate. As well as shields. These versions of the items cost and weigh an additional 25% but have the same statistics and properties otherwise.
+
+====
+Alternative
+#### Armored Terror
+
+Starting at 3rd level, you gain proficiency in heavy armors. Moreover, wearing heavy armor doesn't prevent you from gaining the rage bonuses.
+
+Moreover, during a short or a long rest, you can fix metallic spikes to a shield or an armor. When you do so, your spiked shield or armor also counts as a melee martial weapon with which you are proficient and that deals 1d4 piercing damage on a hit. _That damage increases to 1d6 at level 6._
+
+_If you fix spikes on a magical shield or armor, piercing damage dealt by it counts as magical damage._
+
+#### Spiked Armor
+
+Beginning at 6th level, when you have a spiked shield or armor equipped, you gain the following benefits:
+
+- You deal piercing damage equal to your Proficiency Modifier to your target when you make a successful shove attack.
+- Creatures grappled by you or grappling you take piercing damage equal to your Proficiency Modifier at the start of each of their turn until the grapple ends.
+- When a creature makes a melee attack against you, you can use your reaction to bristle your spikes. when you do so, until the start of your next turn, any creature that makes a melee attack against you, including the triggering attack, takes piercing damage equal to your Proficiency Modifier.
+
+> ##### A word about that rework
+> 
+> _The Battleragers are known for 2 things : they wear armors, and they charge. My goal with this rework was to double down on those two traits to give that subclass the feeling of being an unstoppable bulldozer that stomps everything on its path._
+
+#### Ruthless Bull's Charge
+
+Starting at 10th level, after you move at least 10 feet in a strait line while raging, you can use an action to make a Ruthless Bull's charge. When you do so, you move up to your speed in a strait line, and you can make a shove attack against each creature that ends up being within 5 feet of you at any point during your charge. On a successful shove, a target is pushed 5 feet away from you (on one of your sides, as you push it out of your way), and is knocked prone. On a failed shove, your charge ends.
+
+Alternatively, if there is no creature on your way during the charge but you encounter a structure (a wall, a door, a tree etc.), you deal bludgeoning damage to that structure equal to the distance (in feet) you have run during your charge before hitting it.
+
+#### Unstoppable
+
+Beginning at 14th level, you become immune to magical effects that should reduce your speed or immobilize you when you are raging. Moreover, when you use the Ruthless Bull's Charge feature while raging, you ignore difficult terrains and you gain resistance to all damage types until the end of your movement.
+
+**Battlerager Armor (lvl 3)** When you choose this path at 3rd level, you gain the ability to use spiked armor as a weapon. While you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes at a target within 5 feet of you. If the attack hits, the spikes deal 1d4 piercing damage. You use your Strength modifier for the attack and damage rolls. Additionally, when you use the Attack action to grapple or shove a creature, the target takes 3 piercing damage if your check succeeds. **Craft of War (lvl 3)** You gain proficiency in Smith's Tools if you haven't already. You can modify armor you wear as part of a long rest to treat it as Spiked Armor while retaining any benefits the armor has. Doing so removes the spikes from your previous armor unless you have the stock of iron needed to craft new ones.   **Reckless Abandon (lvl 6)** Beginning at 6th level, when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.   **Spiked Retribution (lvl 10)** You can now benefit from your rage bonuses and fast movement while wearing heavy armor. When a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't incapacitated, and are wearing spiked armor.   **RAMMING SPEED !!(lvl 14)** As a bonus action you may Dash. As part of this unique Dash action you may Ram into enemies' space as long as you've ran at least 15 feet in one direction towards them. You roll your Athletics contested by the creatures Athletics or Acrobatics (they choose), If you succeed the creature is either knocked prone or pushed 5 feet in a direction away from you (your choice) and they take damage equal to your Strenth Modifier (minimum of 1). If you fail then the creature remains in place and your Ram ends where you connected with them. Once you've succeeded a Ram you may continue moving and Ram additional targets. Ramming uses your speed and cannot exceed it. You can only Ram creatures of 2 size classes larger than you or creatures smaller than those classes.
