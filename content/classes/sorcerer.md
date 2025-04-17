@@ -1,7 +1,7 @@
 ---
 title: Sorcerer
 slug: sorcerer
-image: sorcerer.jpg
+image: sorcerer_2.jpg
 image2: sorcerer_cl.png
 sector: 1
 ---

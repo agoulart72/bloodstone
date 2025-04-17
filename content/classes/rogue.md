@@ -1,7 +1,7 @@
 ---
 title: Rogue
 slug: rogue
-image: rogue.jpg
+image: rogue_2.jpg
 sector: 1
 image2: rogue_cl.png
 layout: phb

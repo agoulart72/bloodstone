@@ -1,9 +1,9 @@
 ---
 title: Druid
 slug: druid
-image: druid.jpg
+image: druid_3.jpg
 sector: 1
-image2: druid_cl.png
+image2: druid_3_cl.png
 layout: phb
 ---
 <!-- ### -->

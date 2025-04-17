@@ -1,7 +1,7 @@
 ---
 title: Fighter
 slug: fighter
-image: fighter.jpg
+image: fighter_3.jpg
 sector: 1
 image2: fighter_cl.png
 layout: phb

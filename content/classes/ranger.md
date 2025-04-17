@@ -1,9 +1,9 @@
 ---
 title: Ranger
 slug: ranger
-image: ranger.jpg
+image: ranger_2.jpg
 sector: 1
-image2: ranger_cl.png
+image2: ranger_2_cl.png
 ---
 <!-- ### -->
 

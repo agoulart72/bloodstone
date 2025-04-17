@@ -1,9 +1,9 @@
 ---
 title: Warlock
 slug: warlock
-image: warlock.jpg
+image: warlock_2.jpg
 sector: 1
-image2: warlock_cl.png
+image2: warlock_2_cl.png
 layout: phb
 ---
 <!-- ### -->

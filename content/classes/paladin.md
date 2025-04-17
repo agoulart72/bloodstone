@@ -1,7 +1,7 @@
 ---
 title: Paladin
 slug: paladin
-image: paladin.jpg
+image: paladin_4.jpg
 sector: 1
 image2: paladin_cl.png
 layout: phb
