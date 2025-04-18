@@ -6,7 +6,7 @@ image2: sorcerer_cl.png
 sector: 1
 ---
 Sorcerers são magos que possuem a força da magia em seu sangue. Porém seu aprendizado de magia não é feito da forma tradicional, através de fórmulas e livros. Sorcerers possuem energia mágica em seu sangue, eles são descendentes de linhagens antigas que possuíam poderes mágicos. Sorcerers aprendem a libertar a magia inata a eles através de movimentos repetitivos e mantras. Alguns aprendem estes movimentos de outros sorcerers, outros aprendem sozinhos através de experimentação e meditação.
-<!-- ### -->
+<!-- ### --><!-- traits -->
 ### Primary Ability
     Charisma
 ### Hit Points
@@ -20,7 +20,7 @@ Sorcerers são magos que possuem a força da magia em seu sangue. Porém seu apr
 ### Starting Equipment
 - (A) Spear, 2 Daggers, Arcane Focus (crystal), Dungeoneer’s Pack, and 28 GP; 
 - (B) 50 GP
-<!-- ### -->
+<!-- ### --><!-- features -->
 
 | Level | PB   | Class Features                 | Cantrips | Prepared Spells | Spell Points | Spell Limit |
 | :-----: | :----: | -------------------------------- | :--------: |:---------------: | :------------: | :----------: |

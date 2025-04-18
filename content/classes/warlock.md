@@ -6,17 +6,26 @@ sector: 1
 image2: warlock_2_cl.png
 layout: phb
 ---
-<!-- ### -->
+Entidades tão antigas quanto os deuses, os patronos gostam de corromper os seres vivos do mundo. Titãs que foram outrora derrotados, ou poderosos fae que não foram destruídos pela sombra, estas entidades possuem suas próprias agendas e segredos. Humanos, goblins, ophidians e elfos negros são peões em seu jogo cósmico. Aqueles que se sujeitam a fazer um pacto com estas criaturas ganham poder, mas perdem muitas vezes coisas mais valiosas.
 
-Primary Ability	Charisma
-Hit Point Die	D8 per Warlock level
-Saving Throw Proficiencies	Wisdom and Charisma
-Skill Proficiencies	Choose 2: Arcana, Deception, History, Intimidation, Investigation, Nature, or Religion
-Weapon Proficiencies	Simple weapons
-Armor Training	Light armor
-Starting Equipment	Choose A or B: (A) Leather Armor, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar’s Pack, and 15 GP; or (B) 100 GP
 
-<!-- ### -->
+<!-- ### --><!-- traits -->
+### Primary Ability
+	Charisma
+### Hit Points
+	D8
+### Saving Throw
+	Wisdom and Charisma
+### Proficiencies
+- Skills (2): [Arcana](/bloodstone/rules/skills#Skills), Deception, History, Intimidation, Investigation, Nature, or Religion
+- Tools: 
+- Weapons: Simple weapons
+- Armor: Light armor
+### Starting Equipment
+- (A) Leather Armor, Sickle, 2 Daggers, Arcane Focus (orb), Book (occult lore), Scholar’s Pack, and 15 GP;
+- (B) 100 GP
+
+<!-- ### --><!-- features -->
 
 |Level|Proficiency Bonus|Class Features|Eldritch Invocations|Cantrips|Prepared Spells|Spell Slots|Slot Level|
 |---|---|---|---|---|---|---|---|

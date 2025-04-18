@@ -6,18 +6,23 @@ sector: 1
 image2: monk_cl.png
 layout: phb
 ---
-<!-- ### -->
+<!-- ### --><!-- traits -->
+### Primary Ability
+	Dexterity and Wisdom
+### Hit Points
+	D8
+### Saving Throw
+	Strength, Dexterity
+### Proficiencies
+- Skills (2): [Acrobatics](/bloodstone/rules/skills#Skills), Athletics, History, Insight, Religion, or Stealth
+- Tools: Choose one type of Artisan’s Tools or Musical Instrument
+- Weapons: Simple weapons and Martial weapons that have the Light property
+- Armor: &#x00D8;
+### Starting Equipment
+- (A)  Spear, 5 Daggers, Artisan’s Tools or Musical Instrument chosen for the tool proficiency above, Explorer’s Pack, and 11 GP;
+- (B) 50 GP
 
-Primary Ability	Dexterity and Wisdom
-Hit Point Die	D8 per Monk level
-Saving Throw Proficiencies	Strength and Dexterity
-Skill Proficiencies	Choose 2: Acrobatics, Athletics, History, Insight, Religion, or Stealth
-Weapon Proficiencies	Simple weapons and Martial weapons that have the Light property
-Tool Proficiencies	Choose one type of Artisan’s Tools or Musical Instrument
-Armor Training	None
-Starting Equipment	Choose A or B: (A) Spear, 5 Daggers, Artisan’s Tools or Musical Instrument chosen for the tool proficiency above, Explorer’s Pack, and 11 GP; or (B) 50 GP
-
-<!-- ### -->
+<!-- ### --><!-- features -->
 
 | Level | Proficiency Bonus | Class Features | Martial Arts | Focus Points |Unarmored Movement|
 |---|---|---|---|---|---|

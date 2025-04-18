@@ -6,17 +6,27 @@ sector: 1
 image2: cleric_2_cl.png
 layout: phb
 ---
-<!-- ### -->
+Clérigos são abençoados pelos deuses com poder divino. Os Sidhelien não veneram os deuses, portanto, elfos de Cerília não podem ser clérigos. Cada clérigo deve escolher um dos deuses de Cerília.
 
-| Primary Ability            | Wisdom                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hit Point Die              | D8 per Cleric level                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Saving Throw Proficiencies | Wisdom and Charisma                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Skill Proficiencies        | _Choose 2:_ [History](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies       | Simple weapons                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Armor Training             | Light and Medium armor and Shields                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Starting Equipment         | _Choose A or B:_ (A) [Chain Shirt](https://www.dndbeyond.com/equipment/12-chain-shirt), [Shield](https://www.dndbeyond.com/equipment/8-shield), [Mace](https://www.dndbeyond.com/equipment/11-mace), [Holy Symbol](https://www.dndbeyond.com/equipment/514-holy-symbol), [Priest’s Pack](https://www.dndbeyond.com/equipment/405-priests-pack), and 7 GP; or (B) 110 GP                                                                                     |
-<!-- ### -->
+Divindades e Domínios – é necessário escolher uma divindade para o clérigo. O deus de um clérigo influenciará suas atitudes, as magias que ele será capaz de conjurar, e seus valores morais em relação ao mundo. Cada divindade possui uma lista de domínios, que representam conceitos de valores, forças e elementos importantes para a divindade.
+
+<!-- ### --><!-- traits -->
+### Primary Ability
+	Wisdom
+### Hit Points
+	D8
+### Saving Throw
+	Wisdom, Charisma
+### Proficiencies
+- Skills (2): [History](/bloodstone/rules/skills#Skills), [Insight](/bloodstone/rules/skills#Skills), [Medicine](/bloodstone/rules/skills#Skills), [Persuasion](/bloodstone/rules/skills#Skills), or [Religion](/bloodstone/rules/skills#Skills)
+- Tools: 
+- Weapons: Simple weapons
+- Armor: Light and Medium armor and Shields
+### Starting Equipment
+- (A) *Chain Shirt*, *Shield*, *Mace*, *Holy Symbol*, *Priest’s Pack*, and 7 GP;
+- (B) 110 GP
+
+<!-- ### --><!-- features -->
 
 | |   |   |   |   |   |——Spell Slots per Spell Level——|   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|

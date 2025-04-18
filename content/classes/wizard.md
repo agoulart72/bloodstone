@@ -6,18 +6,28 @@ sector: 1
 image2: wizard_3_cl.png
 layout: phb
 ---
-<!-- ### -->
+Feiticeiros são os mestres da verdadeira magia e são muito raros. Além de inteligência, talento e muito treinamento, apenas aqueles que possuem a força da magia no sangue podem comandar os verdadeiros segredos das artes arcanas.
 
-| Primary Ability            | Intelligence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hit Point Die              | D6 per Wizard level                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Saving Throw Proficiencies | Intelligence and Wisdom                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Skill Proficiencies        | _Choose 2:_ [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [History](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Nature](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies       | Simple weapons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Armor Training             | None                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Starting Equipment         | _Choose A or B:_ (A) 2 [Daggers](https://www.dndbeyond.com/equipment/3-dagger), [Arcane Focus (Quarterstaff)](https://www.dndbeyond.com/equipment/540-staff), Robe, [Spellbook](https://www.dndbeyond.com/equipment/86-spellbook), [Scholar’s Pack](https://www.dndbeyond.com/equipment/418-scholars-pack), and 5 GP; or (B) 55 GP                                                                                                                                                                                                                                                                                                     |
+É dito que os magos se diferenciam pelas magias que eles estudam, os métodos que usam para invocar este conhecimento, os objetivos que eles estabelecem para si mesmos, e as companhias que eles escolhem. Apesar destas diferenças, todos os feiticeiros de Cerilia compartilham um traço em comum: eles tem sede de conhecimento do arcano, e abraçam sua arte com coração e mente.
 
-<!-- ### -->
+Mas acima de tudo, os magos se definem por suas origens - quem são, qual terra chamam de lar. A aceitação da magia e daqueles que a praticam varia bastante de cultura para cultura. Exceto pelos elfos, para quem a magia é uma parte natural de suas vidas, a maior parte das raças acredita que feitiçaria é uma atividade essencialmente sobrenatural. A maioria das pessoas comuns olha para os feiticeiros com desconfiança. Por isto, muitos feiticeiros preferem manter suas habilidades em segredo Mesmo "feiticeiros da corte" raramente executam magias na corte, exceto pelas menores (ilusões e divinações).
+<!-- ### --><!-- traits -->
+### Primary Ability
+	Intelligence
+### Hit Points
+	D6
+### Saving Throw
+	Intelligence and Wisdom
+### Proficiencies
+- Skills (2): [Arcana](/bloodstone/rules/skills#Skills), [History](/bloodstone/rules/skills#Skills), [Insight](/bloodstone/rules/skills#Skills), [Investigation](/bloodstone/rules/skills#Skills), [Medicine](/bloodstone/rules/skills#Skills), [Nature](/bloodstone/rules/skills#Skills), or [Religion](/bloodstone/rules/skills#Skills)
+- Tools: 
+- Weapons: Simple weapons
+- Armor: None
+### Starting Equipment
+- (A) 2 Daggers, Arcane Focus (Quarterstaff), Spellbook, Scholar’s Pack, and 5 GP;
+- (B) 55 GP;
+
+<!-- ### --><!-- features -->
 
 | 
 |   |   |   |   |——Spell Slots per Spell Level——|   |   |   |   |   |   |   |   |
@@ -91,7 +101,7 @@ Once you use this feature, you can’t do so again until you finish a Long Rest.
 
 #### Level 2: Scholar
 
-While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [History](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Nature](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills). You have [Expertise](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Expertise) in the chosen skill.
+While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: [Arcana](/bloodstone/rules/skills#Skills), [History](/bloodstone/rules/skills#Skills), [Investigation](/bloodstone/rules/skills#Skills), [Medicine](/bloodstone/rules/skills#Skills), [Nature](/bloodstone/rules/skills#Skills), or [Religion](/bloodstone/rules/skills#Skills). You have [Expertise](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Expertise) in the chosen skill.
 
 #### Level 3: Wizard Subclass
 

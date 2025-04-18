@@ -6,9 +6,8 @@ sector: 1
 image2: fighter_cl.png
 layout: phb
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-<!-- ### -->
+Os guerreiros são especialistas no uso de armas e armaduras. Eles geralmente atuam como soldados ou mercenários. Guerreiros são comuns em todas as regiões de Cerília, porém variam muito em estilos de luta, e escolha de armas e armaduras. Enquanto os guerreiros em Anuire usam armaduras pesadas e espadas longas, os guerreiros em Brechtur dão preferência a armaduras leves, sabres e armas de fogo. Os khinasi usam suas cimitarras com habilidade e são exímios cavaleiros, enquanto os rjurik possuem uma técnica própria para lutar com seus gigantescos claymores.
+<!-- ### --><!-- traits -->
 ### Primary Ability
 	Strength / Dexterity
 ### Hit Points
@@ -16,14 +15,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Saving Throw
 	Strength, Constitution
 ### Proficiencies
-- Skills (2): [Acrobatics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Animal Handling](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [History](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), or [Survival](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)
+- Skills (2): [Acrobatics](/bloodstone/rules/skills##Skills), [Animal Handling](/bloodstone/rules/skills##Skills), [Athletics](/bloodstone/rules/skills##Skills), [History](/bloodstone/rules/skills##Skills), [Insight](/bloodstone/rules/skills##Skills), [Intimidation](/bloodstone/rules/skills##Skills), [Persuasion](/bloodstone/rules/skills##Skills), [Perception](/bloodstone/rules/skills##Skills), or [Survival](/bloodstone/rules/skills##Skills)
 - Weapons: Simple and Martial Weapons
 - Armor: Light, Medium, and Heavy armor and Shields
 ### Starting Equipment
-- (A) : [Chain Mail](https://www.dndbeyond.com/equipment/16-chain-mail), [Greatsword](https://www.dndbeyond.com/equipment/22-greatsword), [Flail](https://www.dndbeyond.com/equipment/20-flail), 8 [Javelins](https://www.dndbeyond.com/equipment/8-javelin), [Dungeoneer’s Pack](https://www.dndbeyond.com/equipment/525-dungeoneers-pack), and 4 GP;
-- (B) : [Studded Leather Armor](https://www.dndbeyond.com/equipment/3-studded-leather), [Scimitar](https://www.dndbeyond.com/equipment/29-scimitar), [Shortsword](https://www.dndbeyond.com/equipment/30-shortsword), [Longbow](https://www.dndbeyond.com/equipment/37-longbow), 20 [Arrows](https://www.dndbeyond.com/equipment/508-arrows), [Quiver](https://www.dndbeyond.com/equipment/407-quiver), [Dungeoneer’s Pack](https://www.dndbeyond.com/equipment/525-dungeoneers-pack), and 11 GP;
+- (A) : *Chain Mail*, *Greatsword*, *Flail*, 8 *Javelins*, *Dungeoneer’s Pack*, and 4 GP;
+- (B) : *Studded Leather Armor*, *Scimitar*, *Shortsword*, *Longbow*, 20 *Arrows*, *Quiver*, *Dungeoneer’s Pack*, and 11 GP;
 - (C): 155 GP
-<!-- ### -->
+<!-- ### --><!-- features -->
 
 | Level | PB  | Class Features                                    | Second Wind | Weapon Mastery |
 | :---: | :-: | ------------------------------------------------- | ----------- | -------------- |

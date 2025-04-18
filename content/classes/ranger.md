@@ -5,19 +5,25 @@ image: ranger_2.jpg
 sector: 1
 image2: ranger_2_cl.png
 ---
-<!-- ### -->
+Rangers dominam o território selvagem. Eles protegem aqueles que vivem fora das cidades e viajam por todos os cantos de Cerília. Dependendo de sua origem, o ranger possui um tipo de terreno no qual ele está mais adaptado.
+<!-- ### --><!-- traits -->
+### Primary Ability
+	Dexterity and Wisdom
+### Hit Points
+	D10
+### Saving Throw
+	Strength and Dexterity
+### Proficiencies
+- Skills (3): [Animal Handling](/bloodstone/rules/skills#Skills), [Athletics](/bloodstone/rules/skills#Skills), [Insight](h/bloodstone/rules/skills#Skills), [Investigation](/bloodstone/rules/skills#Skills), [Nature](/bloodstone/rules/skills#Skills), [Perception](/bloodstone/rules/skills#Skills), [Stealth](/bloodstone/rules/skills#Skills), or [Survival](/bloodstone/rules/skills#Skills)
+- Tools: 
+- Weapons: Simple and Martial weapons
+- Armor: Light and Medium armor and Shields
+### Starting Equipment
+- (A) Studded Leather Armor, Scimitar, Shortsword, Longbow, 20 Arrows, Quiver,
+Druidic Focus (sprig of mistletoe), Explorer’s Pack, and 7 GP;
+- (B) 150 GP
 
-
-| Primary Ability            | Dexterity and Wisdom                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hit Point Die              | D10 per Ranger level                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Saving Throw Proficiencies | Strength and Dexterity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Skill Proficiencies        | _Choose 3:_ [Animal Handling](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Nature](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), or [Survival](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies       | Simple and Martial weapons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Armor Training             | Light and Medium armor and Shields                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Starting Equipment         | _Choose A or B:_ (A) [Studded Leather Armor](https://www.dndbeyond.com/equipment/3-studded-leather), [Scimitar](https://www.dndbeyond.com/equipment/29-scimitar), [Shortsword](https://www.dndbeyond.com/equipment/30-shortsword), [Longbow](https://www.dndbeyond.com/equipment/37-longbow), 20 [Arrows](https://www.dndbeyond.com/equipment/508-arrows), [Quiver](https://www.dndbeyond.com/equipment/407-quiver), [Druidic Focus](https://www.dndbeyond.com/equipment/532-druidic-focus) ([sprig of mistletoe](https://www.dndbeyond.com/equipment/531-sprig-of-mistletoe)), [Explorer’s Pack](https://www.dndbeyond.com/equipment/522-explorers-pack), and 7 GP; or (B) 150 GP                                                       |
-
-<!-- ### -->
+<!-- ### --><!-- features -->
 
 | |   |   |   |—Spell Slots per Spell Level—|   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|

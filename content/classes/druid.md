@@ -6,28 +6,28 @@ sector: 1
 image2: druid_3_cl.png
 layout: phb
 ---
-<!-- ### -->
+Druidas são sacerdotes de Gaia. Existem druidas em várias regiões de Cerilia, mas é nas terras dos Rjurik onde os círculos são mais poderosos. Os druidas são organizados em círculos, cada círculo compreendendo uma região. Alguns círculos são mais fortes e possuem muitos druidas, como o círculo da terra na região dos Rjurik. Outros círculos são pequenos, como os shamans espiritualistas das terras dos Vos.
 
+Em nível 1, o druida é considerado apenas um aprendiz. Quando ele atinge o nível 3 ele deve procurar um dos círculos (geralmente onde ele foi iniciado), onde ele será submetido a alguns testes. Ao passar nestes testes, o druida passa a fazer parte do círculo. Os testes variam para cada círculo.
+
+<!-- ### --><!-- traits -->
 ### Primary Ability
     Wisdom
-
 ### Hit Point Die
     D8
-
 ### Saving Throw
     Intelligence, Wisdom
-
 ### Proficiencies
-- Skills: _Choose 2:_ [Animal Handling](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Nature](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), or [Survival](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)
+- Skills (2): [Animal Handling](/bloodstone/rules/skills##Skills), [Arcana](/bloodstone/rules/skills##Skills), [Insight](/bloodstone/rules/skills##Skills), [Medicine](/bloodstone/rules/skills##Skills), [Nature](/bloodstone/rules/skills##Skills), [Perception](h/bloodstone/rules/skills##Skills), [Religion](/bloodstone/rules/skills##Skills), or [Survival](/bloodstone/rules/skills##Skills)
 - Tools: Herbalism Kit
 - Weapons: Simple weapons
 - Armor: Light armor and Shields
 
 ### Starting Equipment
-- (A) [Leather Armor](https://www.dndbeyond.com/equipment/10-leather), [Shield](https://www.dndbeyond.com/equipment/8-shield), [Sickle](https://www.dndbeyond.com/equipment/13-sickle), [Druidic Focus](https://www.dndbeyond.com/equipment/532-druidic-focus) ([Quarterstaff](https://www.dndbeyond.com/equipment/12-quarterstaff)), [Explorer’s Pack](https://www.dndbeyond.com/equipment/522-explorers-pack), [Herbalism Kit](https://www.dndbeyond.com/equipment/460-herbalism-kit), and 9 GP; 
+- (A) *Leather Armor*, *Shield*, *Sickle*, *Druidic Focus* (*Quarterstaff*), *Explorer’s Pack*, *Herbalism Kit*, and 9 GP; 
 - (B) 50 GP
 
-<!-- ### -->
+<!-- ### --><!-- features -->
 
 | |   |   |   |   |   |——Spell Slots per Spell Level——|   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|

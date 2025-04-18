@@ -24,15 +24,31 @@
         {{ end }}
       {{end}}    
     </div>
-    <div class="fancyBorders" style="flex: 0 0;">
-        <p>{{ index $sectionsContents 1 | .RenderString }}</p>
-    </div>
+    {{ range $index, $element := $sectionsContents }}
+      {{ if in $element "<!-- traits -->" }}      
+      <div class="fancyBorders" style="flex: 1 1;">
+        <p>{{ $element | markdownify }}</p>
+      </div>    
+      {{ end }}
+    {{ end }}
   </div>
 
   <div style="height:10px;background-image:url('{{ $imgBar.Permalink }}')"></div>
 
-    <div class="fancyBorders" style="float: left; margin-right: 25px;">
-      <p>{{ index $sectionsContents 2 | .RenderString }}</p>
-    </div>
-  
+  {{ range $index, $element := $sectionsContents }}
+    {{ if in $element "<!-- features -->" }}      
+      <div class="fancyBorders"> <!-- style="float: left; margin-right: 25px;" -->
+        <p>{{ $element | markdownify }}</p>
+      </div>    
+      {{ end }}
+  {{ end }}
+
+  <div style="height:10px;background-image:url('{{ $imgBar.Permalink }}')"></div>
+
+  {{ range $index, $element := $sectionsContents }}
+    {{ if in $element "<!-- subclasses -->" }}
+      {{ $element | markdownify }}
+    {{ end }}
+  {{ end }}
+
 {{ end }}

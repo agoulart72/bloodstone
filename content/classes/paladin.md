@@ -6,19 +6,24 @@ sector: 1
 image2: paladin_cl.png
 layout: phb
 ---
-<!-- ### -->
+Paladinos são guerreiros abençoados que promovem a causa de um dos deuses. O deus patrono deve ser escolhido quando o personagem é criado. A escolha do deus pode variar de acordo com o voto do paladino.
+<!-- ### --><!-- traits -->
+### Primary Ability
+	Strength and Charisma
+### Hit Points
+	D10
+### Saving Throw
+	Wisdom and Charisma
+### Proficiencies
+- Skills (2): [Athletics](/bloodstone/rules/skills#Skills), [Insight](/bloodstone/rules/skills#Skills), [Intimidation](/bloodstone/rules/skills#Skills), [Medicine](/bloodstone/rules/skills#Skills), [Persuasion](/bloodstone/rules/skills#Skills), or [Religion](/bloodstone/rules/skills#Skills)
+- Tools: 
+- Weapons: Simple and Martial weapons
+- Armor: Light, Medium, and Heavy armor and Shields
+### Starting Equipment
+- (A) *Chain Mail*, *Shield*, *Longsword*, 6 *Javelins*, *Holy Symbol*, *Priest’s Pack*, and 9 GP
+- (B) 150 GP
 
-
-| Primary Ability            | Strength and Charisma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hit Point Die              | D10 per Paladin level                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Saving Throw Proficiencies | Wisdom and Charisma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Skill Proficiencies        | _Choose 2:_ [Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Intimidation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Medicine](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), or [Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) |
-| Weapon Proficiencies       | Simple and Martial weapons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Armor Training             | Light, Medium, and Heavy armor and Shields                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| Starting Equipment         | _Choose A or B:_ (A) [Chain Mail](https://www.dndbeyond.com/equipment/16-chain-mail), [Shield](https://www.dndbeyond.com/equipment/8-shield), [Longsword](https://www.dndbeyond.com/equipment/4-longsword), 6 [Javelins](https://www.dndbeyond.com/equipment/8-javelin), [Holy Symbol](https://www.dndbeyond.com/equipment/514-holy-symbol), [Priest’s Pack](https://www.dndbeyond.com/equipment/405-priests-pack), and 9 GP; or (B) 150 GP                                                                                                             |
-
-<!-- ### -->
+<!-- ### --><!-- features -->
 
 | |   |   |   |   |—Spell Slots per Spell Level—|   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|

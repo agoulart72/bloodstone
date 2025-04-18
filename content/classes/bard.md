@@ -6,19 +6,23 @@ sector: 1
 image2: bard_2_cl.png
 layout: phb
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<!-- ### -->
-
-| Primary Ability            | Charisma                                                                                                                                                                                                                                                                                     |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hit Point Die              | D8 per Bard level                                                                                                                                                                                                                                                                            |
-| Saving Throw Proficiencies | Dexterity and Charisma                                                                                                                                                                                                                                                                       |
-| Skill Proficiencies        | _Choose any 3 skills_                                                                                                                                                                                                                                                                        |
-| Weapon Proficiencies       | Simple weapons                                                                                                                                                                                                                                                                               |
-| Tool Proficiencies         | _Choose 3 Musical Instruments_                                                                                                                                                                                                                                                               |
-| Armor Training             | Light armor                                                                                                                                                                                                                                                                                  |
-| Starting Equipment         | _Choose A or B:_ (A) [Leather Armor](https://www.dndbeyond.com/equipment/10-leather), 2 [Daggers](https://www.dndbeyond.com/equipment/3-dagger), Musical Instrument of your choice, [Entertainer’s Pack](https://www.dndbeyond.com/equipment/524-entertainers-pack), and 19 GP; or (B) 90 GP |
-<!-- ### -->
+Bardos são conhecidos como historiadores, heraldas, mensageiros e conselheiros, e são bem vindos em todos os lugares. Os primeiros bardos de Cerília foram elfos enviados às terras dos humanos para estudar e ensinar seus vizinhos humanos. Cada um destes elfos deu origem a um colégio de bardos; hoje, os estudantes continuam o trabalho de seus mentores. Aqueles treinados nas tradições dos bardos (independente da raça) possuem uma limitada técnica de magia através da música.
+<!-- ### --><!-- traits -->
+### Primary Ability
+	Charisma
+### Hit Points
+	D8
+### Saving Throw
+	Dexterity, Charisma
+### Proficiencies
+- Skills (3): any
+- Tools: 3 musical instruments
+- Weapons: Simple Weapons
+- Armor: Light armor
+### Starting Equipment
+- (A) *Leather Armor*, 2 *Daggers*, *Musical Instrument* of your choice, *Entertainer’s Pack*, and 19 GP;
+- (B) 90 GP
+<!-- ### --><!-- features -->
 
 | |   |   |   |   |   |——Spell Slots per Spell Level——|   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -129,4 +133,4 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [Power Word Heal](https://www.dndbeyond.com/spells/2618880-power-word-heal) and [Power Word Kill](https://www.dndbeyond.com/spells/2618886-power-word-kill) spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
 
-<!-- ### -->
+<!-- ### --><!-- subclasses -->
