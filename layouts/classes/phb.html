@@ -13,8 +13,8 @@
     <p>{{ index $sectionsContents 0 | .RenderString }}</p>
   </div>
 
-  <div class="container" style="width: 90%;">
-    <div style="flex: 0 0 40%; text-align: center;">
+  <div class="container">
+    <div style="flex: 0 0; text-align: center;">
     {{ with .Params.image2 }}
         {{ if (fileExists (printf "assets/images/classes/%s" .)) }}
           {{ $img := resources.Get (printf "images/classes/%s" .) }}
@@ -24,11 +24,15 @@
         {{ end }}
       {{end}}    
     </div>
-    <div class="fancyBorders" style="flex: 1;">
+    <div class="fancyBorders" style="flex: 0 0;">
         <p>{{ index $sectionsContents 1 | .RenderString }}</p>
     </div>
   </div>
 
   <div style="height:10px;background-image:url('{{ $imgBar.Permalink }}')"></div>
-  <div class="fancyBorders" style="float: left; margin-right: 25px;">
+
+    <div class="fancyBorders" style="float: left; margin-right: 25px;">
+      <p>{{ index $sectionsContents 2 | .RenderString }}</p>
+    </div>
+  
 {{ end }}

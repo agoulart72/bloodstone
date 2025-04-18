@@ -3,7 +3,7 @@ title: Wizard
 slug: wizard
 image: wizard_2.jpg
 sector: 1
-image2: wizard_2_cl.png
+image2: wizard_3_cl.png
 layout: phb
 ---
 <!-- ### -->
