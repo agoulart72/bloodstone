@@ -37,7 +37,7 @@
 
   {{ range $index, $element := $sectionsContents }}
     {{ if in $element "<!-- features -->" }}      
-      <div class="fancyBorders"> <!-- style="float: left; margin-right: 25px;" -->
+      <div class="fancyBorders" style="display: inline-block"> <!-- style="float: left; margin-right: 25px;" -->
         <p>{{ $element | markdownify }}</p>
       </div>    
       {{ end }}

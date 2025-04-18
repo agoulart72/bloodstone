@@ -24,6 +24,7 @@ Considerados selvagens, estes guerreiros formidáveis são geralmente encontrado
 - (B) 75 GP- (C): 155 GP
 
 <!-- ### --><!-- features -->
+{{< features_table >}}
 | Level | PB  | Class Features                          | Rages | Rage Damage | Weapon Mastery |
 | :---: | :-: | --------------------------------------- | :---: | :---------: | :------------: |
 |   1   | +2  | Rage, Unarmored Defense, Weapon Mastery |   2   |     +2      |       2        |
@@ -46,6 +47,7 @@ Considerados selvagens, estes guerreiros formidáveis são geralmente encontrado
 |  18   | +6  | Indomitable Might                       |   6   |     +4      |       4        |
 |  19   | +6  | Epic Boon                               |   6   |     +4      |       4        |
 |  20   | +6  | Primal Champion                         |   6   |     +4      |       4        |
+{{</features_table >}}
 <!-- ### -->
 #### Level 1: Rage
 

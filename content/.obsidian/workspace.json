@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/barbarian.md",
+                "file": "classes/bard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "barbarian"
+              "title": "bard"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/test-post.md",
+                "file": "classes/bard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test-post"
+              "title": "Backlinks for bard"
             }
           },
           {
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of test-post"
             }
+          },
+          {
+            "id": "6b16103ae291a957",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +175,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "0bfb9402c3ffaaae",
   "lastOpenFiles": [
+    "classes/barbarian.md",
     "rules/skills.md",
     "rules",
     "posts/test-post.md",
