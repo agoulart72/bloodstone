@@ -1,7 +1,11 @@
 {{ define "title" }}
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
+{{ define "menu" }}
+    {{ partial "menu.html" }}
+{{ end }}
 {{ define "main" }}
+  {{ $thisPage := .Page }}
   <h1 style="text-align: center;" class="shadowText">{{ .Title }}</h1> 
   {{ $imgBar := resources.Get "images/design/decorated.jpg" }}
   <div style="height:10px;background-image:url('{{ $imgBar.Permalink }}')"></div>
@@ -45,10 +49,13 @@
 
   <div style="height:10px;background-image:url('{{ $imgBar.Permalink }}')"></div>
 
+  <div class="container">
   {{ range $index, $element := $sectionsContents }}
     {{ if in $element "<!-- subclasses -->" }}
-      {{ $element | markdownify }}
+      {{ $thisPage.Store.Set "element" $element }}
+      {{ partial "subclass.html" (dict "context" . "Page" $thisPage) }}      
     {{ end }}
   {{ end }}
+  </div>
 
 {{ end }}

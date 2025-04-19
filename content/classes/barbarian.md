@@ -170,8 +170,6 @@ You embody primal power. Your Strength and Constitution scores increase by 4, an
 
 <!-- ### --> <!-- subclasses -->
 
-### Subclasses
-
 ## Path of the Berserker
 
 {{< figure src="images/classes/brb_berserker.png" class="subclass" >}}
@@ -198,15 +196,23 @@ As a Bonus Action, you can strike terror into others with your menacing presence
 
 Once you use this feature, you can’t use it again until you finish a Long Rest unless you expend a use of your Rage (no action required) to restore your use of it.
 
-<!-- ### -->
-
-
+<!-- ### --> <!-- subclasses -->
 
 ## Path of the Wild Heart
 
+{{< figure src="images/classes/brb_wild_heart.png" class="subclass" >}}
+
+<!-- ### --> <!-- subclasses -->
+
 ## Path of the World Tree
 
+{{< figure src="images/classes/brb_world_tree.png" class="subclass" >}}
+
+<!-- ### --> <!-- subclasses -->
+
 ## Path of the Zealot
+
+{{< figure src="images/classes/brb_zealot.png" class="subclass" >}}
 
 <!-- ### -->
 
