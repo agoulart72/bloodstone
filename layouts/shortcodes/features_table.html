@@ -1,3 +1,7 @@
-<div class="features_table">    
-    {{ .Inner | markdownify }}
+<div class="features_table">
+    {{ $content := .Inner | markdownify }}    
+    {{ $pattern := `<(th|td)(.*?)>\s*\{\s*colspan\s*=\s*(\d+)\s*\}\s*(.*?)</(th|td)>` }}
+    {{ $replacement := `<${1}${2} colspan="${3}">${4}</${5}>` }}
+    {{ $fixed := replaceRE $pattern $replacement $content }}
+    {{ $fixed | safeHTML }}
 </div>

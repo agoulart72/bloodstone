@@ -15,7 +15,7 @@
 - Valor - *Humans, Dragonborn, Dwarves, Jotunkin
 - Swords (XGE) - TODO -check if still valid - Brechtur
 - Whisper (XGE) - Needs refactor - Brechtur
-- Eloquence (TCE) - Social strong, flavor weak - Khinasi
+- ~~Eloquence (TCE) - Social strong, flavor weak - Khinasi
 - Satire (custom) - cool, refactor steal something from dance ? *Humans, Halflings*
 
 ## Cleric
@@ -29,14 +29,14 @@
 - Grave (XGE)
 - Arcana (SCAG)
 - Order (TCE)
-- Protection (UA)
+- x Protection (UA)
 - Chaos
 - Darkness
-- Destruction
-- Hunt
+- x Destruction
+- x Hunt
 - Love
-- Ocean
-- Death (2014 DMG)
+- x Ocean
+- x Death (2014 DMG)
 ## Druid
 - Land - *
 - Moon - *

@@ -1,3 +1,7 @@
 <div style="flex: 0 0">
-{{ .Page.Store.Get "element" | markdownify }}
+    {{ $subSection := .Page.Store.Get "element" }}
+    {{ $subSectionDelimiter := "<!-- ## -->"}}
+    {{ $subSectionsContents := split $subSection $subSectionDelimiter }}
+  
+    <p>{{ index $subSectionsContents 0 | markdownify }}</p>
 </div>

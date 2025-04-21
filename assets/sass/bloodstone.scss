@@ -159,6 +159,13 @@ figure.subclass img {
 
 div.features_table table,th,td {
   border: 1px solid grey;
+  empty-cells: hide;
+  min-width: 16px;
+  padding: 3px;
+}
+
+div.features_table table th:empty,td:empty {
+  display:none;
 }
 
 div.features_table table thead th {

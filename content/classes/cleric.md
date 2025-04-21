@@ -28,7 +28,8 @@ Divindades e Domínios – é necessário escolher uma divindade para o clérigo
 
 <!-- ### --><!-- features -->
 
-| |   |   |   |   |   |——Spell Slots per Spell Level——|   |   |   |   |   |   |   |   |
+{{< features_table >}}
+|  { colspan = 6 } &nbsp;| { colspan = 9 } Spell Slots per Spell Level |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Level|Proficiency Bonus|Class Features|Channel Divinity|Cantrips|Prepared Spells|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -52,6 +53,7 @@ Divindades e Domínios – é necessário escolher uma divindade para o clérigo
 |18|+6|—|4|5|20|4|3|3|3|3|1|1|1|1|
 |19|+6|Epic Boon|4|5|21|4|3|3|3|3|2|1|1|1|
 |20|+6|Greater Divine Intervention|4|5|22|4|3|3|3|3|2|2|1|1|
+{{</ features_table >}}
 
 <!-- ### -->
 
@@ -134,3 +136,76 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 #### Level 20: Greater Divine Intervention
 
 You can call on even more powerful divine intervention. When you use your Divine Intervention feature, you can choose [Wish](https://www.dndbeyond.com/spells/2619213-wish) when you select a spell. If you do so, you can’t use Divine Intervention again until you finish 2d4 Long Rests.
+
+<!-- ### --><!-- subclasses -->
+
+### Life Domain
+
+{{< figure src="images/classes/clr_life.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Light Domain
+
+{{< figure src="images/classes/clr_light.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Trickery Domain
+
+{{< figure src="images/classes/clr_trickery.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### War Domain
+
+{{< figure src="images/classes/clr_war.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Knowledge Domain
+
+{{< figure src="images/classes/clr_knowledge.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Tempest Domain 
+
+{{< figure src="images/classes/clr_tempest.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Forge Domain 
+
+{{< figure src="images/classes/clr_forge_2.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+### Grave Domain 
+
+{{< figure src="images/classes/clr_grave_3.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+### Arcana Domain 
+
+{{< figure src="images/classes/clr_arcana.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+### Order Domain 
+
+{{< figure src="images/classes/clr_order.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+### Chaos Domain 
+
+{{< figure src="images/classes/clr_chaos_3.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+### Darkness Domain 
+
+{{< figure src="images/classes/clr_darkness_3.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+### Love Domain 
+
+{{< figure src="images/classes/clr_love.png" class="subclass" >}}
+

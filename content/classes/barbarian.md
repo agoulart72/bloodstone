@@ -165,31 +165,39 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 You embody primal power. Your Strength and Constitution scores increase by 4, and their maximum is now 25.
 
-<!-- ### -->
-
-
 <!-- ### --> <!-- subclasses -->
 
 ## Path of the Berserker
 
 {{< figure src="images/classes/brb_berserker.png" class="subclass" >}}
 
-_Channel Rage into Violent Fury_
+{{< fancy_border >}}
+{{< features_table >}}
+| Level | Feature |
+| :---: | :---: |
+| 3 | Frenzy |
+| 6 | Mindless Rage |
+| 10 | Retaliation |
+| 14 | Intimidating Presence |
+{{</ features_table >}}
+{{</ fancy_border >}}
 
-Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them.
-
+<!-- ## -->
 #### Level 3: Frenzy
 
 If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage Damage bonus, and add them together. The damage has the same type as the weapon or Unarmed Strike used for the attack.
 
+<!-- ## -->
 #### Level 6: Mindless Rage
 
 You have Immunity to the [Charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition) and [Frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) conditions while your Rage is active. If you’re [Charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition) or [Frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) when you enter your Rage, the condition ends on you.
 
+<!-- ## -->
 #### Level 10: Retaliation
 
 When you take damage from a creature that is within 5 feet of you, you can take a Reaction to make one melee attack against that creature, using a weapon or an Unarmed Strike.
 
+<!-- ## -->
 #### Level 14: Intimidating Presence
 
 As a Bonus Action, you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [Emanation](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#EmanationAreaofEffect) originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and Proficiency Bonus). On a failed save, a creature has the [Frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition for 1 minute. At the end of each of the [Frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) creature’s turns, the creature repeats the save, ending the effect on itself on a success.
@@ -202,11 +210,33 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 
 {{< figure src="images/classes/brb_wild_heart.png" class="subclass" >}}
 
+{{< fancy_border >}}
+{{< features_table >}}
+| Level | Feature |
+| :---: | :---: |
+| 3 | Animal Speaker, Rage of the Wilds |
+| 6 | Aspect of the Wilds |
+| 10 | Nature Speaker |
+| 14 | Power of the Wilds |
+{{</ features_table >}}
+{{</ fancy_border >}}
+
 <!-- ### --> <!-- subclasses -->
 
 ## Path of the World Tree
 
 {{< figure src="images/classes/brb_world_tree.png" class="subclass" >}}
+
+{{< fancy_border >}}
+{{< features_table >}}
+| Level | Feature |
+| :---: | :---: |
+| 3 | Vitality of the Tree |
+| 6 | Branches of the Tree |
+| 10 | Battering Roots |
+| 14 | Travel along the Tree |
+{{</ features_table >}}
+{{</ fancy_border >}}
 
 <!-- ### --> <!-- subclasses -->
 
@@ -214,13 +244,59 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 
 {{< figure src="images/classes/brb_zealot.png" class="subclass" >}}
 
-<!-- ### -->
+{{< fancy_border >}}
+{{< features_table >}}
+| Level | Feature |
+| :---: | :---: |
+| 3 | Divine Fury, Warrior of the Gods |
+| 6 | Fanatical Focus |
+| 10 | Zealous Presence |
+| 14 | Rage of the Gods |
+{{</ features_table >}}
+{{</ fancy_border >}}
+
+
+<!-- ### --> <!-- subclasses -->
 
 ## Ancestral Guardian (XGE)
 
+{{< figure src="images/classes/brb_ancestral_guardian.png" class="subclass" >}}
+
+{{< fancy_border >}}
+{{< features_table >}}
+| Level | Feature |
+| :---: | :---: |
+| 3 | Ancestral Protectors |
+| 6 | Spirit Shield (2d8) |
+| 10 | Consult the Spirits, Spirit Shield (3d8) |
+| 14 | Vengeful Ancestros, Spirit Shield (4d8) |
+{{</ features_table >}}
+{{</ fancy_border >}}
+
+<!-- ### --> <!-- subclasses -->
+
 ## Storm Herald (XGE)
 
+{{< figure src="images/classes/brb_storm_herald.png" class="subclass" >}}
+
+{{< fancy_border >}}
+{{< features_table >}}
+| Level | Feature |
+| :---: | :---: |
+| 3 | Storm Aura |
+| 6 | Storm Soul |
+| 10 | Shielding Storm |
+| 14 | Raging Storm |
+{{</ features_table >}}
+{{</ fancy_border >}}
+
+<!-- ### --> <!-- subclasses -->
+
 ## Battlerager (Custom)
+
+{{< figure src="images/classes/brb_battlerager.png" class="subclass" >}}
+
+<!-- ## -->
 
 Original:
 ### Restriction: Dwarves Only

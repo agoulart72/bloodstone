@@ -29,7 +29,8 @@ Em nível 1, o druida é considerado apenas um aprendiz. Quando ele atinge o ní
 
 <!-- ### --><!-- features -->
 
-| |   |   |   |   |   |——Spell Slots per Spell Level——|   |   |   |   |   |   |   |   |
+{{< features_table >}}
+|  { colspan = 6 } &nbsp;| { colspan = 9 } Spell Slots per Spell Level |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Level|Proficiency Bonus|Class Features|Wild Shape|Cantrips|Prepared Spells|1|2|3|4|5|6|7|8|9|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -53,6 +54,7 @@ Em nível 1, o druida é considerado apenas um aprendiz. Quando ele atinge o ní
 |18|+6|Beast Spells|4|4|20|4|3|3|3|3|1|1|1|1|
 |19|+6|Epic Boon|4|4|21|4|3|3|3|3|2|1|1|1|
 |20|+6|Archdruid|4|4|22|4|3|3|3|3|2|2|1|1|
+{{</ features_table >}}
 
 <!-- ### -->
 
@@ -171,3 +173,27 @@ The vitality of nature constantly blooms within you, granting you the following 
 **_Nature Magician._** You can convert uses of Wild Shape into a spell slot (no action required). Choose a number of your unexpended uses of Wild Shape and convert them into a single spell slot, with each use contributing 2 spell levels. For example, if you convert two uses of Wild Shape, you produce a level 4 spell slot. Once you use this benefit, you can’t do so again until you finish a Long Rest.
 
 **_Longevity._** The primal magic that you wield causes you to age more slowly. For every ten years that pass, your body ages only one year.
+
+<!-- ### --><!-- subclasses -->
+
+### Circle of the Land
+
+{{< figure src="images/classes/drd_land.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Circle of the Moon
+
+{{< figure src="images/classes/drd_moon.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Circle of the Stars
+
+{{< figure src="images/classes/drd_stars.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Circle of the Sea
+
+{{< figure src="images/classes/drd_sea.png" class="subclass" >}}
