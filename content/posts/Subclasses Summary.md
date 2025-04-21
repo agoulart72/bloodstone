@@ -17,6 +17,7 @@
 - Whisper (XGE) - Needs refactor - Brechtur
 - ~~Eloquence (TCE) - Social strong, flavor weak - Khinasi
 - Satire (custom) - cool, refactor steal something from dance ? *Humans, Halflings*
+- Moon (UA) - Rjurik only - Review - Beware some OP options (reduce ST)
 
 ## Cleric
 - Life (PHB)
@@ -29,22 +30,23 @@
 - Grave (XGE)
 - Arcana (SCAG)
 - Order (TCE)
-- x Protection (UA)
-- Chaos
-- Darkness
-- x Destruction
-- x Hunt
-- Love
-- x Ocean
-- x Death (2014 DMG)
+- Chaos (Custom)
+- Darkness (Custom)
+- Love (Custom)
+- x ~~Protection (UA)
+- x ~~Destruction
+- x ~~Hunt
+- x ~~Ocean
+- x ~~Death (2014 DMG)
+ 
 ## Druid
 - Land - *
 - Moon - *
 - Sea - *Brechtur*
-- ~~Stars
-- Shepperd (XGE) - check, problems with new conjure 
-- Twilight (Dreams XGE) - check
-- Wildfire (TCE) - maybe replace with Sand
+- Stars
+- Shepherd (XGE) - revised
+- ~~Dreams (XGE) - TODO review
+- Wildfire (TCE) - replace with Sand, problem: infinite teleports
 - Sand (custom)
 - Guardian (custom)
 ## Fighter

@@ -197,3 +197,46 @@ The vitality of nature constantly blooms within you, granting you the following 
 ### Circle of the Sea
 
 {{< figure src="images/classes/drd_sea.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Circle of the Shepherd
+
+{{< figure src="images/classes/drd_shepherd.png" class="subclass" >}}
+
+<!-- ## -->
+#### Level 3 - Speech of the Woods
+You gain the ability to converse with beasts and many fey.
+You learn Sylvan, if you already know Sylvan, you learn another language of your choice. You may cast Speak With Animals at will.
+
+#### Level 3 - Spirit Totem
+You can call forth nature spirits to influence the world around you.
+As a bonus action, you can expend a use of your Wild Shape feature to magically summon an incorporeal spirit to a point you can see within 60 feet of you.
+The spirit creates an aura in a 30-foot radius around that point. It counts as neither a creature nor an object, though it has the spectrl appearance of the creature it represents.
+As a bonus action, you can move the spirit up to 60 feet to a point you can see.
+The spirit persists for 1 minute or unitl you're incapacitated or use this feature again.
+The effect of the spirit's aura depends on the type of spirit you summon from the options below.
+- *Bear Spirit* - The bear spirit grants you and your allies its might and endurance. As a reaction when a creature in your aura ends its turn, you may grant them temporary hit points equal to 5+ your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.
+- *Hawk Spirit* -  The hawk spirit is a consummate hunter, aiding you and your allies with its keen sight. As a reaction when a creature in your aura makes an attack, you may grant them advantage on that attack and any attacks they make until the start of your next turn. In addition, you and your allies have advantage on Wisdom (Perception) checks while in the aura.
+- *Unicorn Spirit* - The unicorn spirit lends its protection to those nearby. As a reaction when a creature in your aura recovers hit points, you may increase the number of hit points regained by an amount equal to 5+ your druid level. In addition, you and your allies gain advantage on all ability checks made to detect creatures in the spirit's aura.
+
+#### Level 6 - Mighty Summoner
+
+At 6th level, beasts and fey that you summon are more resilient than normal. 
+When you use a spell to summon a beast of fey they gain the following benefits:
+
+- The creature appears with more hit points than normal: 5 extra hit points per level of the spell that summoned it.
+
+- The creature may deal its normal damage type with its attacks, or force damage. You make this choice each time the creature hits with an attack.
+
+#### Level 10 - Guardian Spirit
+
+Beginning at 10th level, your Spirit Totem safeguards the beasts and fey that you call forth with your magic.  At the end of your turn, choose a beast of fey that you summoned or created with a spell in your Spirit Totem aura, that creature regains a number of hit points equal to your druid level.
+
+#### Level 14 - Faithful Summons
+
+Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are incapacitated against your will, you can immediately gain the benefits of 
+*Summon Beast* as if it were cast with a 9th-level spell slot.
+The summoned beast appears within 20 feet of you. If it receives no command from you, it protects you from harm and attacks your foes. The spell lasts for 1 hour, requiring no concentration or until you dismiss it (no action required).
+
+Once you use this feature, you can’t use it again until you finish a long rest.
