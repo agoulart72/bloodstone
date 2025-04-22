@@ -182,7 +182,7 @@ You can call on even more powerful divine intervention. When you use your Divine
 <!-- ### --><!-- subclasses -->
 ### Grave Domain 
 
-{{< figure src="images/classes/clr_grave_3.png" class="subclass" >}}
+{{< figure src="images/classes/clr_grave_2.png" class="subclass" >}}
 
 <!-- ### --><!-- subclasses -->
 ### Arcana Domain 
