@@ -55,4 +55,5 @@ Valka - Conan - Kull era Male God akin to Mitra
 Hoggoth - Marvel - Vishanti - Tiger like mystic
 Oshtur - Marvel - Vishanti - goddes mystic
 Aggamoto - Marvel - Vishanto - son of Oshtur
+Morrigan - Celt - Goddes of War, Death and Fate
 
