@@ -171,7 +171,7 @@ You can call on even more powerful divine intervention. When you use your Divine
 
 ### Tempest Domain 
 
-{{< figure src="images/classes/clr_tempest.png" class="subclass" >}}
+{{< figure src="images/classes/clr_tempest_2.png" class="subclass" >}}
 
 <!-- ### --><!-- subclasses -->
 
@@ -197,7 +197,7 @@ You can call on even more powerful divine intervention. When you use your Divine
 <!-- ### --><!-- subclasses -->
 ### Chaos Domain 
 
-{{< figure src="images/classes/clr_chaos_3.png" class="subclass" >}}
+{{< figure src="images/classes/clr_chaos.png" class="subclass" >}}
 
 <!-- ### --><!-- subclasses -->
 ### Darkness Domain 
