@@ -3,41 +3,42 @@ Gods are not omnipotent either. They channel their actions through clerics and b
 
 Andur - LG - God of Honor and Justice, Patron of Anuire,  Life / War
 Mitra - LG - Goddess of Light, Patron of Khinassi, Ligth / Life
-Selune - NG - Goddes of Magic,  [Arcana] / Knowledge
+Selune - NG - Goddes of Magic,  [Arcana] / [Knowledge]
 Ishtar - CG - Goddess of Love, Light / [Love]
-    Bast - CG - Goddess of Animals, Patron of Therion, no clerics
-Thalassa - TN* - Goddess of Oceans, no clerics, Sea druids
-Gobano (Vulcan) - LN - God of Fire, Patron of Dwarves,  [Forge] / Order
-Anubis - LN - God of Death, [Grave] / Knowledge
+    Bast - CG - Goddess of Animals, Patron of Therion, no clerics, Rangers
+	Thalassa - TN* - Goddess of Oceans, no clerics, Sea druids
+Goberion (Gobanus/Vulcan) - LN - God of Fire, Patron of Dwarves,  [Forge] / [Order]
+Anubis - LN - God of Death, [Grave] / [Knowledge]
      Gaia - TN - Patron of Rjurik, no clerics, Druids
-Crom - CN - God of War, War / Tempest
+	Crom - CN - God of War, no clerics
 Laverna - CN - God of Lies, Trickery / [Chaos]
-Kriesha - LE - Goddess of Winter, Patron of Vos, Tempest / Order
-	Karthatok - LE* - Patron of Goblins, no clerics
+Kriesha - LE - Goddess of Winter, Patron of Vos, War / [Order]
+	Arioch (Karthatok) - LE* - Patron of Goblins, no clerics, Warlocks
 Raven - NE - God of Darkness, [Darkness] / Trickery
 	Serqet - NE - God of Secrets, no clerics, undead warlocks
 	Tiamat - CE - Mother of Monsters, no clerics
+	 Dagon - CE - patron of sahuagin, no clerics, Warlocks
 
 Domains
-Knowledge - Selune, Anubis
 Life - Mitra, Andur
 Light - Mitra, Ishtar
-Tempest - Crom, Kriesha
 Trickery - Laverna, Raven
-War - Andur, Crom
+War - Andur, Kriesha
+Knowledge (UA) - Selune, Anubis
+x Tempest
 
-Forge - Vulcan 
-Grave - Anubis
-Arcana - Selune
-Order - Vulcan, Kriesha
+Forge (XGE) - Gobanos 
+Grave (XGE) - Anubis
+Arcana (SCAG) - Selune
+Order (TCE) - Gobanos, Kriesha
 x Death
 x Protection -
 
 Chaos - Laverna
-Darkness - Raven
+! Darkness - Raven
 Love - Ishtar
-x Destruction - Crom
-x Hunt -
+x Destruction 
+x Hunt
 x Ocean - Thalassa
 
 =====
