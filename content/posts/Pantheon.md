@@ -1,41 +1,41 @@
 Gods are not omniscient. They rely on prayers to learn what is happening in the world.
 Gods are not omnipotent either. They channel their actions through clerics and believers.
 
-Andur - LG - God of Honor and Justice, Patron of Anuire,  War / [Order]
-Mitra - LG - God of Light, Patron of Khinassi,  Life / [Tempest]
-Selune - NG - Goddes of Magic,  [Knowledge] / Life
+Andur - LG - God of Honor and Justice, Patron of Anuire,  Life / War
+Mitra - LG - God of Light, Patron of Khinassi,  Light  / [Tempest]
+Selune - NG - Goddes of Magic,  Life / Trickery
 Ishtar - CG - Goddess of Love, Light / [Love]
     Bast - CG - Goddess of Animals, Patron of Therion, no clerics, Rangers
-	Thalassa - TN* - Goddess of Oceans, no clerics, Sea druids
 Valkor (Volund/Hephaestus/Svarog/Gobanus/Vulcan) - LN - God of Fire, Patron of Dwarves,  [Forge] / Light
 Morrigan (Anubis) - LN - God of Death, [Grave] / War
      Gaia - TN - Patron of Rjurik, no clerics, Druids
-	Crom - CN - God of War, no clerics
+	 Thalassa - TN* - Goddess of Oceans, no clerics, Sea druids
+	 Crom - CN - God of War, no clerics
 Laverna - CN - God of Lies, Trickery / [Chaos]
 Kriesha - LE - Goddess of Winter, Patron of Vos, [Tempest] / [Order]
 	Golgoroth (Karthatok) - LE* - Patron of Goblins, no clerics, Warlocks
-Arioch (Raven) - NE - God of Darkness, [Darkness] / Trickery
+Arioch (Raven) - NE - God of Darkness, [Darkness] / War
 	Serqet - NE - God of Secrets, no clerics, undead warlocks
 	Tiamat - CE - Mother of Monsters, no clerics
 	 Dagon - CE - patron of sahuagin, no clerics, Warlocks
 
 Domains
-Life - Mitra, Selune
-Light - Ishtar, Valkor
-Trickery - Laverna, ???
-War - Andur, Morrigan
-Knowledge (UA) - Selune.  : Mix with Arcana
-Tempest (2014) - Mitra, Kriesha : Improve
+Life - Andur, Selune
+Light - Mitra, Ishtar, Valkor
+Trickery - Selune, Laverna
+War - Andur, Morrigan, Arioch
+Tempest (2014) - Mitra, Kriesha : Update to 2024 power level
+x Knowledge (UA) -???  : Mix with Arcana ???
 
 Forge (XGE) - Valkor
 Grave (XGE) - Morrigan
 x Arcana (SCAG) -
-Order (TCE) - Andur, Kriesha
+Order (TCE) - Kriesha
 x Death
 x Protection -
 
 Chaos - Laverna
-Darkness - Arioch
+Darkness - Arioch - Adjust power level
 Love - Ishtar
 x Destruction 
 x Hunt
