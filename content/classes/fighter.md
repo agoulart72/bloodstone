@@ -120,3 +120,39 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 You can attack four times instead of once whenever you take the [Attack](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#AttackAction) action on your turn.
 
 <!-- ### -->
+
+<!-- ### --><!-- subclasses -->
+
+### Champion
+
+{{< figure src="images/classes/fgr_champion.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Battle Master
+
+{{< figure src="images/classes/fgr_battle_master.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Eldritch Knight
+
+{{< figure src="images/classes/fgr_eldritch_knight.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Cavalier (XGE)
+
+{{< figure src="images/classes/fgr_cavalier_2.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Rune Knight (TCE)
+
+{{< figure src="images/classes/fgr_rune_knight.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Gunslinger
+
+{{< figure src="images/classes/fgr_gunslinger.png" class="subclass" >}}
