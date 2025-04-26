@@ -7,7 +7,7 @@ Gods are not omnipotent either. They channel their actions through clerics and b
 | Andur     | LG (M) | Life     | War                      | Honor and Justice                              | Anuire     |            |
 | Mitra     | LG (M) | Light    | Tempest                  | Sunfire, Light                                 | Khinassi   |            |
 | Selune    | NG (F) | Life     | Trickery                 | Moon, Magic                                    | Elves      |            |
-| Lugh      | NG (M) | Life     | Trade ? /<br>Knowledge ? | Arts, Trade, Travel - Lugus / Mercury / Hermes | Halflings  | Bards      |
+| Lugh      | NG (M) | Life     | Knowledge                | Arts, Trade, Travel - Lugus / Mercury / Hermes | Halflings  | Bards      |
 | Ishtar    | CG (F) | Light    | Love                     | Love, Passion                                  |            |            |
 | Bast      | CG (F) | -        | -                        | Animals                                        | Therion    | Rangers    |
 | Valkor    | LN (M) | Forge    | Light                    | Fire, Craft, Smith                             | Dwarves    |            |
@@ -29,7 +29,7 @@ Gods are not omnipotent either. They channel their actions through clerics and b
 | Life            | Andur, Lugh, Selune        |                             |
 | Light           | Mitra, Ishtar, Valkor      |                             |
 | Trickery        | Selune, Laverna, Arioch    |                             |
-| War             | Andur, Morrigan, Golgoroth |                             |
+| War             | Andur, Morrigan, Golgor    |                             |
 | Tempest         | Mitra, Kriesha, Golgor     | [2014] Needs update to 2024 |
 | Knowledge       | Lugh                       | [2014] Mix with Arcana ?    |
 | Forge           | Valkor                     | [XGE] - Update              |

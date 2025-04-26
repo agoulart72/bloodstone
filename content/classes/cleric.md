@@ -165,13 +165,13 @@ You can call on even more powerful divine intervention. When you use your Divine
 
 ### Knowledge Domain
 
-{{< figure src="images/classes/clr_knowledge.png" class="subclass" >}}
+{{< figure src="images/classes/clr_knowledge_2.png" class="subclass" >}}
 
 <!-- ### --><!-- subclasses -->
 
 ### Tempest Domain 
 
-{{< figure src="images/classes/clr_tempest_2.png" class="subclass" >}}
+{{< figure src="images/classes/clr_tempest_3.png" class="subclass" >}}
 
 <!-- ### --><!-- subclasses -->
 
@@ -182,12 +182,8 @@ You can call on even more powerful divine intervention. When you use your Divine
 <!-- ### --><!-- subclasses -->
 ### Grave Domain 
 
-{{< figure src="images/classes/clr_grave_2.png" class="subclass" >}}
+{{< figure src="images/classes/clr_grave_3.png" class="subclass" >}}
 
-<!-- ### --><!-- subclasses -->
-### Arcana Domain 
-
-{{< figure src="images/classes/clr_arcana.png" class="subclass" >}}
 
 <!-- ### --><!-- subclasses -->
 ### Order Domain 
@@ -202,7 +198,7 @@ You can call on even more powerful divine intervention. When you use your Divine
 <!-- ### --><!-- subclasses -->
 ### Darkness Domain 
 
-{{< figure src="images/classes/clr_darkness_3.png" class="subclass" >}}
+{{< figure src="images/classes/clr_darkness_4.png" class="subclass" >}}
 
 <!-- ### --><!-- subclasses -->
 ### Love Domain 
