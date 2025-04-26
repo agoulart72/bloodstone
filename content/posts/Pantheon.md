@@ -1,45 +1,52 @@
 Gods are not omniscient. They rely on prayers to learn what is happening in the world.
 Gods are not omnipotent either. They channel their actions through clerics and believers.
 
-Andur - LG - God of Honor and Justice, Patron of Anuire,  Life / War
-Mitra - LG - God of Light, Patron of Khinassi,  Light  / [Tempest]
-Selune - NG - Goddes of Magic,  Life / Trickery
-Ishtar - CG - Goddess of Love, Light / [Love]
-    Bast - CG - Goddess of Animals, Patron of Therion, no clerics, Rangers
-Valkor (Volund/Hephaestus/Svarog/Gobanus/Vulcan) - LN - God of Fire, Patron of Dwarves,  [Forge] / Light
-Morrigan (Anubis) - LN - God of Death, [Grave] / War
-     Gaia - TN - Patron of Rjurik, no clerics, Druids
-	 Thalassa - TN* - Goddess of Oceans, no clerics, Sea druids
-	 Crom - CN - God of War, no clerics
-Laverna - CN - God of Lies, Trickery / [Chaos]
-Kriesha - LE - Goddess of Winter, Patron of Vos, [Tempest] / [Order]
-	Golgoroth (Karthatok) - LE* - Patron of Goblins, no clerics, Warlocks
-Arioch (Raven) - NE - God of Darkness, [Darkness] / War
-	Serqet - NE - God of Secrets, no clerics, undead warlocks
-	Tiamat - CE - Mother of Monsters, no clerics
-	 Dagon - CE - patron of sahuagin, no clerics, Warlocks
 
-Domains
-Life - Andur, Selune
-Light - Mitra, Ishtar, Valkor
-Trickery - Selune, Laverna
-War - Andur, Morrigan, Arioch
-Tempest (2014) - Mitra, Kriesha : Update to 2024 power level
-x Knowledge (UA) -???  : Mix with Arcana ???
+|           |        |          |                          |                                                |            |            |
+| --------- | ------ | -------- | ------------------------ | ---------------------------------------------- | ---------- | ---------- |
+| Andur     | LG (M) | Life     | War                      | Honor and Justice                              | Anuire     |            |
+| Mitra     | LG (M) | Light    | Tempest                  | Sunfire, Light                                 | Khinassi   |            |
+| Selune    | NG (F) | Life     | Trickery                 | Moon, Magic                                    | Elves      |            |
+| Lugh      | NG (M) | Life     | Trade ? /<br>Knowledge ? | Arts, Trade, Travel - Lugus / Mercury / Hermes | Halflings  | Bards      |
+| Ishtar    | CG (F) | Light    | Love                     | Love, Passion                                  |            |            |
+| Bast      | CG (F) | -        | -                        | Animals                                        | Therion    | Rangers    |
+| Valkor    | LN (M) | Forge    | Light                    | Fire, Craft, Smith                             | Dwarves    |            |
+| Morrigan  | LN (F) | Grave    | War                      | Death, War                                     | Brechtur   |            |
+| Gaia      | TN (F) | -        | -                        | Nature                                         | Rjurik     | Druids     |
+| Thalassa  | TN (F) | -        | -                        | Oceans                                         |            | Sea Druids |
+| Crom      | CN (M) | -        | -                        | War                                            |            |            |
+| Laverna   | CN (F) | Chaos    | Trickery                 | Lies, Chaos                                    |            |            |
+| Kriesha   | LE (F) | Order    | Tempest                  | Winter                                         | Vos        |            |
+| Golgoroth | LE (M) | Tempest  | War                      | Dragons, Blood (Xoloti, Tlaloc, Karthatok)     | Dragonborn |            |
+| Arioch    | NE (M) | Darkness | Trickery                 | Darkness (Raven)                               |            |            |
+| Serqet    | NE (M) | -        | -                        | Secrets, Undead                                |            | Warlocks   |
+| Tiamat    | CE (F) | -        | -                        | Mother of Monsters                             |            |            |
+| Dagon     | CE (M) | -        | -                        | Void                                           | Sea Elves  | Warlocks   |
 
-Forge (XGE) - Valkor
-Grave (XGE) - Morrigan
-x Arcana (SCAG) -
-Order (TCE) - Kriesha
-x Death
-x Protection -
 
-Chaos - Laverna
-Darkness - Arioch - Adjust power level
-Love - Ishtar
-x Destruction 
-x Hunt
-x Ocean - Thalassa
+| Domain          |                            |                             |
+| --------------- | -------------------------- | --------------------------- |
+| Life            | Andur, Lugh, Selune        |                             |
+| Light           | Mitra, Ishtar, Valkor      |                             |
+| Trickery        | Selune, Laverna, Arioch    |                             |
+| War             | Andur, Morrigan, Golgoroth |                             |
+| Tempest         | Mitra, Kriesha, Golgor     | [2014] Needs update to 2024 |
+| Knowledge       | Lugh                       | [2014] Mix with Arcana ?    |
+| Forge           | Valkor                     | [XGE] - Update              |
+| Grave           | Morrigan                   | [XGE] - Update              |
+| ~~Arcana~~      |                            | [SCAG]                      |
+| Order           | Kriesha                    | [TCE]                       |
+| ~~Death~~       |                            | [DMG]                       |
+| ~~Protection~~  |                            | [UA]                        |
+| Chaos           | Laverna                    |                             |
+| Darkness        | Arioch                     | Needs adjustment            |
+| Love            | Ishtar                     | Needs adjustment            |
+| ~~Destruction~~ |                            | ~ Tempest                   |
+| ~~Hunt~~        |                            | weak                        |
+| ~~Ocean~~       |                            |                             |
+
+
+
 
 =====
 
@@ -58,3 +65,10 @@ Aggamoto - Marvel - Vishanto - son of Oshtur
 Morrigan - Celt - Goddes of War, Death and Fate
 Golgoroth -Ctulhu -  
 
+=====
+
+Commerce Domain : 
+- https://tbmgames.com/2021/06/25/cleric-domain-commerce/
+- Frontiers of Eberron - Quickstone (https://roll20.net/compendium/dnd5e/Subclasses:Commerce%20Domain?expansion=34904)
+- https://legacy.drivethrurpg.com/product/423152/Commerce-Domain-A-Cleric-Subclass?filters=45322_2130_0_0_0_0
+- 
