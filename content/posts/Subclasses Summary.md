@@ -89,7 +89,6 @@
 - Scout (XGE) - check, too much ranger
 - Phantom (TCE) - check, much magical
 - Gambler (Custom)
-- Winter Walker (UA)
 ## Sorcerer
 - Aberrant - *Brechtur*
 - ~~Clockwork
@@ -102,7 +101,7 @@
 - Tremere (custom) - check, much RL 
 ## Warlock
 - Archfey
-- Celestial
+- ~~Celestial~~
 - Fiend
 - Great Old One
 - Hexblade (XGE) - check, remove as it is baked in others

@@ -25,10 +25,10 @@ Druidic Focus (sprig of mistletoe), Explorer’s Pack, and 7 GP;
 
 <!-- ### --><!-- features -->
 
-| |   |   |   |—Spell Slots per Spell Level—|   |   |   |   |   |
+{{< features_table >}}
+|  { colspan = 5 } &nbsp;| { colspan = 5 } Spell Slots per Spell Level |
 |---|---|---|---|---|---|---|---|---|---|
-|Level|Proficiency Bonus|Class Features|Favored Enemy|Prepared Spells|1|2|3|4|5|
-|---|---|---|---|---|---|---|---|---|---|
+|**Level**|**Proficiency Bonus**|**Class Features**|**Favored Enemy**|**Prepared Spells**|1|2|3|4|5|
 |1|+2|Spellcasting, Favored Enemy, Weapon Mastery|2|2|2|—|—|—|—|
 |2|+2|Deft Explorer, Fighting Style|2|3|2|—|—|—|—|
 |3|+2|Ranger Subclass|2|4|3|—|—|—|—|
@@ -49,6 +49,8 @@ Druidic Focus (sprig of mistletoe), Explorer’s Pack, and 7 GP;
 |18|+6|Feral Senses|6|14|4|3|3|3|1|
 |19|+6|Epic Boon|6|15|4|3|3|3|2|
 |20|+6|Foe Slayer|6|15|4|3|3|3|2|
+
+{{</ features_table >}}
 
 <!-- ### -->
 
@@ -155,3 +157,39 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 #### Level 20: Foe Slayer
 
 The damage die of your [Hunter’s Mark](https://www.dndbeyond.com/spells/2619166-hunters-mark) is a d10 rather than a d6.
+
+<!-- ### --><!-- subclasses -->
+
+### Hunter
+
+{{< figure src="images/classes/rgr_hunter.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Beast Master
+
+{{< figure src="images/classes/rgr_beast_master.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Fey Wanderer
+
+{{< figure src="images/classes/rgr_fey_wanderer.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Gloomstalker
+
+{{< figure src="images/classes/rgr_gloomstalker.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Dervish
+
+{{< figure src="images/classes/rgr_dervish.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Witch Hunter
+
+{{< figure src="images/classes/rgr_witch_hunter.png" class="subclass" >}}

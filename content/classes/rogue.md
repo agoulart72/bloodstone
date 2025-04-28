@@ -26,7 +26,7 @@ Ladinos existem em muitas formas, dos mercadores Brechtur aos assassinos Khinass
 <!-- ### --><!-- features -->
 
 | Level | Proficiency Bonus | Class Features                                         | Sneak Attack |
-| ----- | ----------------- | ------------------------------------------------------ | ------------ |
+| :---: | :---------------: | :----------------------------------------------------: | :----------: |
 | 1     | +2                | Expertise, Sneak Attack, Thieves’ Cant, Weapon Mastery | 1d6          |
 | 2     | +2                | Cunning Action                                         | 1d6          |
 | 3     | +2                | Rogue Subclass, Steady Aim                             | 2d6          |
@@ -150,3 +150,33 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 You have a marvelous knack for succeeding when you need to. If you fail a [D20 Test](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#D20Test), you can turn the roll into a 20.
 
 Once you use this feature, you can’t use it again until you finish a Short or Long Rest.
+
+<!-- ### --><!-- subclasses -->
+
+### Thief
+
+{{< figure src="images/classes/rog_thief.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Assassin
+
+{{< figure src="images/classes/rog_assassin.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Arcane Trickster
+
+{{< figure src="images/classes/rog_arcane_trickster.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Swashbuckler
+
+{{< figure src="images/classes/rog_swashbuckler.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Gambler
+
+{{< figure src="images/classes/rog_gambler.png" class="subclass" >}}

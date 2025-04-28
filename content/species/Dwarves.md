@@ -1,3 +1,10 @@
+---
+title: Dwarves
+slug: dwarf
+image: dwarf.jpg
+sector: 3
+image2: dwarf.png
+---
 
 ### Dwarves
 

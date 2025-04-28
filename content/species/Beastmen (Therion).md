@@ -1,3 +1,10 @@
+---
+title: Therion
+slug: therion
+image: therion.jpg
+sector: 3
+image2: therion.png
+---
 
 Conjunto de racas "peludas"
 

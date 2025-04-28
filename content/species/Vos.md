@@ -1,3 +1,11 @@
+---
+title: Vos
+slug: vos
+image: human_vos.jpg
+sector: 1
+image2: vos.png
+---
+
 The Vos are a proud and deeply conflicted people, defined by their history and their unyielding connection to the dark god. Once fierce warriors serving their dark god in his conquest, they are now haunted by the remnants of that allegiance. After the defeat of their deity, the Vos were left to pick up the pieces of their fractured society.
 
 Nomadic by nature, the Vos wander the wilderness, rarely settling in one place for long. Their society is built on strength and survival, with every member constantly proving their worth through combat and valor. Like the Dothraki, the Vos are masters of mounted warfare, and their warriors ride powerful, agile steeds with unmatched skill, using the horse as both a symbol of their power and a key to their way of life. Their warriors value personal honor above all else, with the strongest vying for leadership in brutal duels.

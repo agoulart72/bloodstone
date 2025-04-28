@@ -31,8 +31,7 @@ Divindades e Domínios – é necessário escolher uma divindade para o clérigo
 {{< features_table >}}
 |  { colspan = 6 } &nbsp;| { colspan = 9 } Spell Slots per Spell Level |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Level|Proficiency Bonus|Class Features|Channel Divinity|Cantrips|Prepared Spells|1|2|3|4|5|6|7|8|9|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|**Level**|**Proficiency Bonus**|**Class Features**|**Channel Divinity**|**Cantrips**|**Prepared Spells**|1|2|3|4|5|6|7|8|9|
 |1|+2|Spellcasting, Divine Order|—|3|4|2|—|—|—|—|—|—|—|—|
 |2|+2|Channel Divinity|2|3|5|3|—|—|—|—|—|—|—|—|
 |3|+2|Cleric Subclass|2|3|6|4|2|—|—|—|—|—|—|—|

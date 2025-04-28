@@ -1,3 +1,10 @@
+---
+title: Jotunkin
+slug: jotun
+image: jotunkin.jpg
+sector: 3
+image2: jotunkin.png
+---
 
 Descendentes dos gigantes
 

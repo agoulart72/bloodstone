@@ -1,3 +1,10 @@
+---
+title: Khinasi
+slug: khinasi
+image: human_khinasi.jpg
+sector: 1
+image2: khinasi.png
+---
 
 The **Khinasi** culture is an ancient and proud civilization deeply rooted in the traditions of the **Middle East** during the medieval period. Inspired by the real-world history of the Arabian Peninsula, the Khinasi society flourishes with a perfect blend of mysticism, arcane mastery, and scientific innovation. This culture is known for its advancements in astrology, astronomy, mathematics, and medicine, heavily influencing the realms surrounding them.
 

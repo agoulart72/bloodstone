@@ -451,3 +451,33 @@ You can cast [Speak with Dead](https://www.dndbeyond.com/spells/2619068-speak-w
 _Prerequisite: Level 15+ Warlock_
 
 You have [Truesight](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Truesight) with a range of 30 feet.
+
+<!-- ### --><!-- subclasses -->
+
+### Archfey
+
+{{< figure src="images/classes/wlk_archfey.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Fiend
+
+{{< figure src="images/classes/wlk_fiend.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Great Old One
+
+{{< figure src="images/classes/wlk_great_old_one.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Undying
+
+{{< figure src="images/classes/wlk_undying.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Noble Genie
+
+{{< figure src="images/classes/wlk_noble_genie.png" class="subclass" >}}

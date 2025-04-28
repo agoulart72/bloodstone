@@ -1,3 +1,10 @@
+---
+title: Rjurik
+slug: rjurik
+image: human_rjurik.jpg
+sector: 1
+image2: rjurik.png
+---
 
 The **Rjurik** are a rugged and resilient people, with a culture deeply rooted in the **Norse mythology** and the wilderness of their homeland. Their society revolves around close-knit clans that live in **dense forests** and **mountainous regions**, isolated from the outside world. Life is shaped by the ever-present struggle between **humankind** and **nature**, with a fierce belief in the spirits that govern the land.
 

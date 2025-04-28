@@ -29,11 +29,10 @@ Mas acima de tudo, os magos se definem por suas origens - quem são, qual terra 
 
 <!-- ### --><!-- features -->
 
-| 
-|   |   |   |   |——Spell Slots per Spell Level——|   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Level|Proficiency Bonus|Class Features|Cantrips|Prepared Spells|1|2|3|4|5|6|7|8|9|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+{{< features_table >}}
+|  { colspan = 5 } &nbsp;| { colspan = 9 } Spell Slots per Spell Level |
+|:--:|:---:|:---|:---:|:---:|:---:|---|---|---|---|---|---|---|---|
+|**Level**|**Proficiency Bonus**|**Class Features**|**Cantrips**|**Prepared Spells**|1|2|3|4|5|6|7|8|9|
 |1|+2|Spellcasting, Ritual Adept, Arcane Recovery|3|4|2|—|—|—|—|—|—|—|—|
 |2|+2|Scholar|3|5|3|—|—|—|—|—|—|—|—|
 |3|+2|Wizard Subclass|3|6|4|2|—|—|—|—|—|—|—|
@@ -54,6 +53,7 @@ Mas acima de tudo, os magos se definem por suas origens - quem são, qual terra 
 |18|+6|Spell Mastery|5|23|4|3|3|3|3|1|1|1|1|
 |19|+6|Epic Boon|5|24|4|3|3|3|3|2|1|1|1|
 |20|+6|Signature Spells|5|25|4|3|3|3|3|2|2|1|1|
+{{</ features_table >}}
 
 <!-- ### -->
 
@@ -140,3 +140,45 @@ The spells you add to your spellbook as you gain levels reflect your ongoing mag
 **_Copying the Book._** You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
 
 If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
+
+<!-- ### --><!-- subclasses -->
+
+### Abjurer
+
+{{< figure src="images/classes/wzd_abjurer.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Diviner
+
+{{< figure src="images/classes/wzd_diviner.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Evoker
+
+{{< figure src="images/classes/wzd_evoker.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Illusionist
+
+{{< figure src="images/classes/wzd_illusionist.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Enchanter
+
+{{< figure src="images/classes/wzd_enchanter.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Necromancer
+
+{{< figure src="images/classes/wzd_necromancer.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Bladesinger
+
+{{< figure src="images/classes/wzd_bladesinger.png" class="subclass" >}}

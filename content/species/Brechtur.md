@@ -1,3 +1,10 @@
+---
+title: Brechtur
+slug: brechtur
+image: human_brechtur_3.jpg
+sector: 1
+image2: brechtur.png
+---
 
 The **Brechtur** are a diverse and dynamic culture known for their **merchant-driven economy**, **advanced firearms technology**, and a deep connection to the **sea**. They flourished during the **Golden Age of Piracy**, with **pirates**, **privateers**, and **seafaring adventurers** playing a significant role in their society. The Brechtur’s culture is steeped in **gothic** influences, with towering structures, dark coastal ports, and an air of mystery that permeates their cities. Their people are pragmatic and highly **resourceful**, using **black powder** and **firearms** to reshape their military strategies and expand their influence across trade routes. Despite their penchant for piracy and war, they are known for **diplomatic prowess** and **commercial expertise**, balancing their rugged, sometimes lawless nature with a thriving, cosmopolitan culture.
 

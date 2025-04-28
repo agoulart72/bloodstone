@@ -1,3 +1,10 @@
+---
+title: Humans
+slug: human
+image: human.jpg
+sector: 100
+image2: human_section.png
+---
 
 1. **Anuire**: A powerful, feudal society focused on chivalry, noble lineage, and military dominance. Anuireans are often ruled by monarchs and princes, with a deep reverence for tradition and honor.
     

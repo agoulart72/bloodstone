@@ -1,3 +1,10 @@
+---
+title: Halflings
+slug: halfling
+image: halfling_2.jpg
+sector: 3
+image2: halfling.png
+---
 
 Sao conectados ao shadow plane, tem mais habilidade de navegar os portais misticos.
 

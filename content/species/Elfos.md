@@ -1,3 +1,10 @@
+---
+title: Elfos
+slug: elf
+image: elf.jpg
+sector: 100
+image2: elf.png
+---
 
 ### Elves
 

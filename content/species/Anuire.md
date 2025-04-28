@@ -1,3 +1,11 @@
+---
+title: Anuire
+slug: anuire
+image: human_anuire.jpg
+sector: 1
+image2: anuire.png
+---
+
 The **Anuire** culture is rooted in the remnants of a once-glorious empire. After the tragic death of the last emperor, who heroically faced the mythical Gorgon, the empire fractured, leading to centuries of instability. The regions that once belonged to the **Anuirean** Empire declared independence, giving rise to a patchwork of **feudal** states and **city-states**, each ruled by powerful noble houses. These factions are often in a **tenuous** balance, with frequent border skirmishes and political intrigue shaping the Anuirean landscape.
 
 ### Government

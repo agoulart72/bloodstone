@@ -258,7 +258,7 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 
 <!-- ### --> <!-- subclasses -->
 
-## Ancestral Guardian (XGE)
+## Ancestral Guardian
 
 {{< figure src="images/classes/brb_ancestral_guardian.png" class="subclass" >}}
 
@@ -275,7 +275,7 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 
 <!-- ### --> <!-- subclasses -->
 
-## Storm Herald (XGE)
+## Storm Herald
 
 {{< figure src="images/classes/brb_storm_herald.png" class="subclass" >}}
 
@@ -292,7 +292,7 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 
 <!-- ### --> <!-- subclasses -->
 
-## Battlerager (Custom)
+## Battlerager
 
 {{< figure src="images/classes/brb_battlerager.png" class="subclass" >}}
 

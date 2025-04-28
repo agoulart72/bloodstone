@@ -198,7 +198,7 @@ The vitality of nature constantly blooms within you, granting you the following 
 
 {{< figure src="images/classes/drd_sea.png" class="subclass" >}}
 
-<!-- ### --><!-- subclasses ??? -->
+<!-- ### --><!-- subclasses -->
 
 ### Circle of the Shepherd
 
@@ -240,3 +240,15 @@ Starting at 14th level, the nature spirits you commune with protect you when you
 The summoned beast appears within 20 feet of you. If it receives no command from you, it protects you from harm and attacks your foes. The spell lasts for 1 hour, requiring no concentration or until you dismiss it (no action required).
 
 Once you use this feature, you can’t use it again until you finish a long rest.
+
+<!-- ### --><!-- subclasses -->
+
+### Circle of the Sand
+
+{{< figure src="images/classes/drd_sand.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Circle of the Guardians
+
+{{< figure src="images/classes/drd_guardian.png" class="subclass" >}}

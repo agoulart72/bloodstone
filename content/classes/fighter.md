@@ -141,13 +141,13 @@ You can attack four times instead of once whenever you take the [Attack](https:
 
 <!-- ### --><!-- subclasses -->
 
-### Cavalier (XGE)
+### Cavalier
 
-{{< figure src="images/classes/fgr_cavalier_2.png" class="subclass" >}}
+{{< figure src="images/classes/fgr_cavalier_3.png" class="subclass" >}}
 
 <!-- ### --><!-- subclasses -->
 
-### Rune Knight (TCE)
+### Rune Knight
 
 {{< figure src="images/classes/fgr_rune_knight.png" class="subclass" >}}
 

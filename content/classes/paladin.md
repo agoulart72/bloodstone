@@ -159,3 +159,39 @@ Your Aura of Protection is now a 30-foot [Emanation](https://www.dndbeyond.com/
 #### Level 19: Epic Boon
 
 You gain an Epic Boon feat or another feat of your choice for which you qualify.
+
+<!-- ### --><!-- subclasses -->
+
+### Oath of Devotion
+
+{{< figure src="images/classes/pld_devotion.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Oath of the Ancients
+
+{{< figure src="images/classes/pld_ancients.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Oath of Vengeance
+
+{{< figure src="images/classes/pld_vengeance.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Oath of Watchers
+
+{{< figure src="images/classes/pld_watchers.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Oath of Conquest
+
+{{< figure src="images/classes/pld_conquest.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Oath of the Illrigger
+
+{{< figure src="images/classes/pld_illrigger.png" class="subclass" >}}

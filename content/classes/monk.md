@@ -179,3 +179,27 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 #### Level 20: Body and Mind
 
 You have developed your body and mind to new heights. Your Dexterity and Wisdom scores increase by 4, to a maximum of 25.
+
+<!-- ### --><!-- subclasses -->
+
+### Way of the Open Hand
+
+{{< figure src="images/classes/mnk_open_hand.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Way of Elements
+
+{{< figure src="images/classes/mnk_elements.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Way of Mercy
+
+{{< figure src="images/classes/mnk_mercy_3.png" class="subclass" >}}
+
+<!-- ### --><!-- subclasses -->
+
+### Way of Shadows
+
+{{< figure src="images/classes/mnk_shadows.png" class="subclass" >}}
