@@ -6,12 +6,10 @@ sector: 1
 image2: khinasi.png
 ---
 
-The **Khinasi** culture is an ancient and proud civilization deeply rooted in the traditions of the **Middle East** during the medieval period. Inspired by the real-world history of the Arabian Peninsula, the Khinasi society flourishes with a perfect blend of mysticism, arcane mastery, and scientific innovation. This culture is known for its advancements in astrology, astronomy, mathematics, and medicine, heavily influencing the realms surrounding them.
-
+The **Khinasi** are a proud and noble culture with a rich history of arcane mastery and mysticism. They come from a region filled with deserts and ancient cities, known for their powerful mages and their obsession with the pursuit of knowledge. Khinasi society places great emphasis on the science, magic and philosophy,  the ruling elite often consists of powerful wizards and scholars.
 ### Government and Leadership
 
-The **Khinasi** are governed by an Emir (or Sultan) who holds ultimate authority, but their society is highly decentralized. Power is also wielded by **scholars, mages, and religious leaders**. These individuals are seen as the custodians of wisdom, guiding the people through divine knowledge and arcane power. In the cities, **theocratic councils** and **merchant guilds** also hold significant influence, as trade is the lifeblood of Khinasi civilization. These groups ensure the balance of power remains in check, with merchants controlling many of the wealthiest regions, while the scholars and astrologers have sway over decision-making with their mystical knowledge.
-
+The **Khinasi** have a complex socio-political structure centered around a mix of noble families, merchant guilds, and powerful scholars, mages and religious leaders. The leadership is often divided between a ruling monarchy or emir, and influential religious or academic leaders, such as scholars or astrologers who hold immense sway over political decisions. Political intrigue is common, with factions vying for control over knowledge and trade routes. Their cities are governed by a mix of legal systems, often blending religious traditions with local customs, and they place high value on knowledge, wealth, and prestige.
 ### Magic and Religion
 
 The Khinasi are known for their deep spiritual practices, which are steeped in **astrology, the worship of celestial bodies, and ancient deities**. Magic is often tied to the celestial and natural forces, with **astrology** playing a key role in divination and decisions of political importance. Mages of the Khinasi view themselves as the bridge between the divine and mortal realms, and thus hold significant social power. The **elemental forces** (particularly fire, water, and earth) are revered as manifestations of the divine.
@@ -47,3 +45,9 @@ Women in Khinasi society have access to a **wide range of roles**, especially wi
 ### Summary
 
 In essence, the **Khinasi** are a deeply **mystical, scholarly, and advanced society** that values knowledge, celestial power, and trade above all else. Their cities are hubs of both intellectual pursuit and intrigue, with various factions vying for influence. They are a land of **scholars, merchants, mages, and aristocrats**, each playing a role in the complex political, social, and magical tapestry that makes up Khinasi culture.
+
+====
+
+
+
+

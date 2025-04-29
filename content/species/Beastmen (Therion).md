@@ -5,16 +5,6 @@ image: therion.jpg
 sector: 3
 image2: therion.png
 ---
-
-Conjunto de racas "peludas"
-
-Worgen - Lobos
-Rakashi - Felinos
-Vanara - Macacos
-Satyr - Ovinos
-Ophidian - Cobras
-
-===
 The **Therion** are an anthropomorphic species with various subspecies, each adapted to their environments and cultures:
 
 1. **Worgen**: Wolf-like beings from the frigid north, known for their survival skills in harsh, cold climates.
@@ -25,7 +15,7 @@ The **Therion** are an anthropomorphic species with various subspecies, each ada
     
 4. **Satyr**: Goat-like beings with a love for revelry, music, and indulgence, often living in woodland areas.
     
-5. **Ophidian**: Serpent-like people, whose culture draws inspiration from ancient Far Eastern traditions, focusing on wisdom, philosophy, and martial arts.
+5. **Ophidian**: Serpent-like people, whose culture focus on wisdom, philosophy, and martial arts.
 ====
 
 If you'd like to integrate the **Nomadic Adventurer** trait into all the **Therion**, here's how it could apply to each subspecies:
@@ -47,27 +37,27 @@ Each Therion subspecies shares the desire for exploration, but their reasons and
 
 Worgen 
 
-- **The Wild Hunt**: The Worgen could worship or revere a god of the hunt, similar to the Norse god **Odin**. Their most prestigious warriors might be seen as chosen ones who lead a supernatural, eternal hunt, chasing after great beasts or enemies.
+- **The Wild Hunt**: The Worgen worship the same gods as the Rjurik, in special  the god of the hunt. Their most prestigious warriors are seen as chosen ones who lead a supernatural, eternal hunt, chasing after great beasts or enemies.
     
-- **The Wolf’s Fate**: The Worgen could believe in **fate** as strongly as the Norse. They might have seers or shamans who foretell the future and guide them toward battles or great deeds, reminiscent of the Norns who control fate in Norse mythology.
+- **The Wolf’s Fate**: The Worgen believe in **fate** as strongly as the Rjurik. They have seers and shamans who foretell the future and guide them toward battles or great deeds.
     
-- **The Sacred Runes**: Like the Norse, the Worgen could revere ancient runes. Rune-crafting might play a central role in their rituals, with shamans or elders using them to cast protective spells or ward off evil.
+- **The Sacred Runes**: Like the Rjurik, the Worgen also revere ancient runes. Rune-crafting play a central role in their rituals, with shamans and elders using them to cast protective spells or ward off evil.
     
-- **Ragnarok and the End Times**: The Worgen might believe in a **prophecy of destruction** and renewal, akin to **Ragnarok**. This could be tied to their own culture’s cyclical nature, where after a great fall, there will be rebirth or the coming of a new age.
+- **Ragnarok and the End Times**: The Worgen believe in a **prophecy of destruction** and renewal, akin to **Ragnarok**. This is tied to their own culture’s cyclical nature, where after a great fall, there will be rebirth or the coming of a new age.
     
-- **Wolf Pack Honor**: The Worgen could have strict codes of honor and clan loyalty. Much like the Norse clans, they value strength and unity, with warriors bound by oaths to protect their kin. Their legendary warriors might have weapons or armor that are blessed by their gods or ancestors.
+- **Wolf Pack Honor**: The Worgen could have strict codes of honor and clan loyalty. Much like the Rjurik clans, they value strength and unity, with warriors bound by oaths to protect their kin. Their legendary warriors have weapons and armor that are blessed by their gods or ancestors.
 
 ====
 
 Rakhashi
 
-- **Nomadic Adventurers**: Like the Tabaxi, Rakhashi could have a strong wanderlust. They might travel in tribes, exploring jungles, deserts, or ancient ruins in search of knowledge, treasure, or adventure, always seeking new experiences.
+- **Nomadic Adventurers**: Rakhashi have a strong wanderlust. They travel in tribes, exploring jungles, deserts, and ancient ruins in search of knowledge, treasure, and adventure, always seeking new experiences.
     
-- **Curiosity and Storytelling**: While they are fierce warriors, Rakhashi could also have a love of stories, seeking knowledge, lore, and personal tales to share. They might keep oral traditions of their ancestors and past hunts.
+- **Curiosity and Storytelling**: While they are fierce warriors, Rakhashi also have a love of stories, seeking knowledge, lore, and personal tales to share. They keep oral traditions of their ancestors and past hunts.
     
-- **Fluid Movement and Stealth**: Their culture could emphasize fluid, cat-like movements, with martial arts, parkour, and stealth tactics incorporated into their everyday life. They excel at sneaking through dense jungles or scaling high cliffs.
+- **Fluid Movement and Stealth**: Their culture emphasize fluid, cat-like movements, with martial arts, parkour, and stealth tactics incorporated into their everyday life. They excel at sneaking through dense jungles or scaling high cliffs.
     
-- **Spiritual Connection to Nature**: Like the Tabaxi’s reverence for the gods, Rakhashi could worship powerful animal spirits or jungle deities, believing they are protectors and guides, and offering up stories and prayers in return for protection.
+- **Spiritual Connection to Nature**: Rakhashi worship powerful animal spirits and Bast, believing they are protectors and guides, and offering up stories and prayers in return for protection.
 
 =====
 The **Nomadic Adventurer** aspect of the **Rakhashi** could be woven into their cultural fabric as a defining characteristic:
@@ -89,7 +79,7 @@ These adventures often culminate in the Rakhashi returning home with new skills,
 
 The **Vanara** are a monkey-like species with a rich and colorful culture. They are highly curious and driven by a thirst for knowledge, exploration, and artistic expression. Here's a deeper look into them:
 
-1. **Adventurous Spirit**: Much like the Tabaxi, the Vanara have an insatiable curiosity, traveling across regions to gather stories, treasures, and knowledge. They act as the wanderers and collectors of the Therion.
+1. **Adventurous Spirit**: Much like the Rakhashi, the Vanara have an insatiable curiosity, traveling across regions to gather stories, treasures, and knowledge. They act as the wanderers and collectors of the Therion.
     
 2. **Cultural Openness**: Vanara are incredibly open-minded and often form bonds with various cultures they encounter. They are excellent diplomats, translators, and storytellers, bringing diverse perspectives wherever they go.
     
