@@ -4,17 +4,8 @@ slug: jotun
 image: jotunkin.jpg
 sector: 3
 image2: jotunkin.png
+layout: culture
 ---
-
-Descendentes dos gigantes
-
-Firbolg (Wheel of Time Ogier)
-Goliath
-Trollblood
-
-=====
-
-### Jotunkin Characteristics
 
 The **Jotunkin** are giant-descended beings with three distinct subspecies, each shaped by their unique cultures:
 

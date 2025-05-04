@@ -1,0 +1,28 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "menu" }}
+    {{ partial "menu.html" }}
+{{ end }}
+{{ define "main" }}
+  <h1 class="center shadowText">{{ .Title }}</h1>
+  <div class="container-1">
+    {{ $thisSection := .Page }}
+    {{ range sort .RegularPages ".Params.sector" }}
+      {{ if .IsDescendant $thisSection }}
+        <div class="box"><a href="{{ .Params.slug }}">
+          {{ $thisSlug := .Params.slug }}
+          {{ with .Params.image }}
+            {{ if (fileExists (printf "assets/images/species/%s" .)) }}
+              {{ $img := resources.Get (printf "images/species/%s" .) }}
+              <img src="{{ $img.Permalink }}" alt="{{ $thisSlug }}"/>
+            {{ else }}
+              {{ . }}
+            {{ end }}
+          {{ end }}
+        </a></div>
+      {{ end }}
+    {{ end }}
+  </div>
+  {{ .Content }}
+{{ end }}

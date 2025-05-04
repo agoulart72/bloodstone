@@ -2,7 +2,7 @@
 title: Anuire
 slug: anuire
 image: human_anuire.jpg
-sector: 1
+sector: 10
 image2: anuire.png
 ---
 

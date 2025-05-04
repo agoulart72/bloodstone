@@ -1,0 +1,10 @@
+{{ define "title" }}
+  {{ .Title }} &ndash; {{ .Site.Title }}
+{{ end }}
+{{ define "menu" }}
+    {{ partial "menu.html" }}
+{{ end }}
+{{ define "main" }}
+  <h1 class="center shadowText">{{ .Title }}</h1>
+  {{ .Content }}
+{{ end }}

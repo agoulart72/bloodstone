@@ -4,9 +4,8 @@ slug: dwarf
 image: dwarf.jpg
 sector: 3
 image2: dwarf.png
+layout: culture
 ---
-
-### Dwarves
 
 The dwarves are an ancient and proud race of craftsmen and engineers, known for their skill in metallurgy and stonework. Unlike traditional dwarves, they do not live underground, but instead roam the countryside in massive landships—gigantic wheeled vehicles that serve as both homes and mobile workshops. These landships are powered by ancient engines, once shared by all clans but now modified by each clan to fit their unique needs and preferences.
 

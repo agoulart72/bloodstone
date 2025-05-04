@@ -4,9 +4,8 @@ slug: dragonborn
 image: dragonborn.jpg
 sector: 4
 image2: dragonborn.png
+layout: culture
 ---
-
-### Dragonborn Characteristics
 
 **Culture and Rituals**: Dragonborn society is rooted in shamanistic practices, where they connect with their draconic ancestors through rituals. These ceremonies involve elemental offerings, trance-like states, and sacred dances.
 

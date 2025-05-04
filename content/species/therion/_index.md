@@ -4,17 +4,9 @@ slug: therion
 image: therion.jpg
 sector: 3
 image2: therion.png
+layout: culture
 ---
 
-Conjunto de racas "peludas"
-
-Worgen - Lobos
-Rakashi - Felinos
-Vanara - Macacos
-Satyr - Ovinos
-Ophidian - Cobras
-
-===
 The **Therion** are an anthropomorphic species with various subspecies, each adapted to their environments and cultures:
 
 1. **Worgen**: Wolf-like beings from the frigid north, known for their survival skills in harsh, cold climates.

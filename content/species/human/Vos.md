@@ -2,7 +2,7 @@
 title: Vos
 slug: vos
 image: human_vos.jpg
-sector: 1
+sector: 10
 image2: vos.png
 ---
 

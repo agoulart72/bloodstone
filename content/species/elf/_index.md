@@ -1,12 +1,11 @@
 ---
-title: Elfos
+title: Elves
 slug: elf
 image: elf.jpg
-sector: 100
+sector: 2
 image2: elf.png
+layout: culture
 ---
-
-### Elves
 
 The elves are the oldest race in the world, their civilization once thriving in great empires that spanned vast lands. Capable of living for millennia, some individuals remember the ancient eras before other species arose. However, their once-great empire has crumbled, and their birth rate has dwindled.
 

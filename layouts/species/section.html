@@ -2,62 +2,43 @@
     {{ partial "menu.html" }}
 {{ end }}
 {{ define "main" }}
-<style>
-  .container-1 {
-    display: flex;
-    flex-wrap:wrap;
-    justify-content:space-around;
-    align-content: space-between;
-    max-width: 1250px;   
-    margin-right:auto;  
-    margin-left: auto;   
-  }
-  .box {
-    flex-basis: 200px;
-    height: 300px;
-    overflow: hidden;
-    border: double black;
-    margin-bottom: 5px;
-  }
-  .box img {
-    width: 100%;
-  }
-  img.icon { width: 120px; }
-  @media only screen and (max-width: 768px) {
-    [class*="container-"] {
-      max-width: 750px;
-    }
-  }
-</style>
 <main aria-role="main">
-    <div class="homepage-content">
-        <h1 class="center shadowText">Species & Cultures</h1>
-        <div class="container-1">
-          {{ $thisSection := .Page }}
-          {{ range sort .RegularPages ".Params.sector" }}
-            {{ if gt .Params.sector 5 }} 
-              {{ continue }}
+  <div>
+    <h1 class="center shadowText">{{ .Title }}</h1>
+    <div class="container-1">
+      {{ $thisSection := .Page }} 
+      {{ range sort .Page.Sections ".Params.sector" }}
+          <div class="box"><a href="{{ .Params.slug }}">
+            {{ $thisSlug := .Params.slug }}
+            {{ with .Params.image }}
+              {{ if (fileExists (printf "assets/images/species/%s" .)) }}
+                {{ $img := resources.Get (printf "images/species/%s" .) }}
+                <img src="{{ $img.Permalink }}" alt="{{ $thisSlug }}"/>
+              {{ else }}
+                {{ . }}
+              {{ end }}
             {{ end }}
-            {{ if .IsDescendant $thisSection }}
-              <!-- p> {{ .Render "summary" }} </p> <br style="clear:both"/ -->
-              <div class="box"><a href="{{ .Params.slug }}">
-                {{ $thisSlug := .Params.slug }}
-                {{ with .Params.image }}
-                  {{ if (fileExists (printf "assets/images/species/%s" .)) }}
-                    {{ $img := resources.Get (printf "images/species/%s" .) }}
-                    <img src="{{ $img.Permalink }}" alt="{{ $thisSlug }}"/>
-                  {{ else }}
-                    {{ . }}
-                  {{ end }}
-                {{ end }}
-        
-                <img src="img/fighter.jpg" alt="{{ .Params.title }}"/></a>
-              </div>
+          </a></div>
+      {{ end }}
+      {{ range sort .RegularPages ".Params.sector" }}
+        {{ if gt .Params.sector 5 }} 
+          {{ continue }}
+        {{ end }}
+        {{ if .IsDescendant $thisSection }}
+          <div class="box"><a href="{{ .Params.slug }}">
+            {{ $thisSlug := .Params.slug }}
+            {{ with .Params.image }}
+              {{ if (fileExists (printf "assets/images/species/%s" .)) }}
+                {{ $img := resources.Get (printf "images/species/%s" .) }}
+                <img src="{{ $img.Permalink }}" alt="{{ $thisSlug }}"/>
+              {{ else }}
+                {{ . }}
+              {{ end }}
             {{ end }}
-          {{ end }}
-            <!-- div class="box"><a href="cl_artificer.html"><img src="img/artificer.jpg" alt="Artificer"/></a></div -->
-            <!-- div class="box"><a href="cl_shaman.html"><img src="img/shaman.jpg" alt="Shaman"/></a></div -->
-          </div>
+          </a></div>
+        {{ end }}
+      {{ end }}
     </div>
+  </div>
 </main>
 {{end}}

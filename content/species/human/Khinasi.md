@@ -2,7 +2,7 @@
 title: Khinasi
 slug: khinasi
 image: human_khinasi.jpg
-sector: 1
+sector: 10
 image2: khinasi.png
 ---
 

@@ -1,18 +1,11 @@
 ---
 title: Halflings
 slug: halfling
-image: halfling_2.jpg
+image: halfling.jpg
 sector: 3
 image2: halfling.png
+layout: culture
 ---
-
-Sao conectados ao shadow plane, tem mais habilidade de navegar os portais misticos.
-
-Sao muito mais sinistros que o normal.
-
-====
-
-### Halflings
 
 Halflings were once the native inhabitants of a plane similar to the Feywild, but this plane was corrupted by the dark god and became the Shadow Plane. In the past, halflings crossed into the Material Plane in large numbers, though some remain behind, affected by the corruption. Strong individuals can teleport between planes, but most rely on ancient portals.
 

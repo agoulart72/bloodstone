@@ -2,7 +2,7 @@
 title: Rjurik
 slug: rjurik
 image: human_rjurik.jpg
-sector: 1
+sector: 10
 image2: rjurik.png
 ---
 
