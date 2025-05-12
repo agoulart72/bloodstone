@@ -1,7 +1,7 @@
 ---
 title: Brechtur
 slug: brechtur
-image: human_brechtur_3.jpg
+image: human_brechtur.jpg
 sector: 10
 image2: brechtur.png
 ---
