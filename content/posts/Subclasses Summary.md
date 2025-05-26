@@ -26,11 +26,11 @@
 - War (PHB)
 - Tempest (2014)
 - Knowledge (2014 - UA)
-- Forge (XGE)
 - Grave (XGE)
-- Arcana (SCAG)
 - Order (TCE)
 - Chaos (Custom)
+- Forge (XGE)
+- Arcana (SCAG)
 - Darkness (Custom)
 - Love (Custom)
 - x ~~Protection (UA)
@@ -44,20 +44,20 @@
 - Moon - *
 - Sea - *Brechtur*
 - Stars
+- Sand (custom)
+- Guardian (custom)
 - Shepherd (XGE) - revised
 - ~~Dreams (XGE) - TODO review
 - Wildfire (TCE) - replace with Sand, problem: infinite teleports
-- Sand (custom)
-- Guardian (custom)
 ## Fighter
 - Battle Master - *
 - Champion - *
 - Eldritch Knight - *Anuire, Brechtur, Dragonborn, Elf, Trollblood*
 - ~~Psi Warrior
-- Arcane Archer (XGE) - Elf
 - Cavalier (XGE) - needs improvement (check RL)
 - Rune Knight (TCE) - Jotunkin
 - Gunslinger (custom) - *Brechtur*
+- Arcane Archer (XGE) - Elf
 ## Monk
 - Mercy - *Brechtur*
 - Shadow - *Moon Elf, Halfling*
@@ -71,7 +71,8 @@
 - Vengeance - *Humans, Elf, Jotunkin*
 - Watchers (TCE) - *Anuire, Brechtur*
 - Conquest (Custom) - *Dragonborn, Vos*
-- Illrigger Variants (MCDM Custom) - *Humans*
+- Slaughter (Ghostfire)
+- ~~Illrigger Variants (MCDM Custom) - *Humans*
 ## Ranger
 - Beast Master - *
 - Fey Wanderer - *Elf*
@@ -82,13 +83,16 @@
 ## Rogue
 - Arcane Trickster - *
 - Assassin - *
-- ~~Soulknife
 - Thief - *
-- Mastermind (XGE) -  check weak
 - Swashbuckler (XGE) - Brechtur
+- Gambler (Custom)
+- Acrobat (MT BLACK) ???
+- Highway Rider (Ghostfire) ???
+- Inquisitive / Investigator (XGE/PF2) ???
+- ~~Soulknife
+- Mastermind (XGE) -  check weak
 - Scout (XGE) - check, too much ranger
 - Phantom (TCE) - check, much magical
-- Gambler (Custom)
 ## Sorcerer
 - Aberrant - *Brechtur*
 - ~~Clockwork
@@ -96,26 +100,26 @@
 - Wild Magic - *Khinasi*
 - Shadow Magic (XGE) - *Moon Elf, Halfling*
 - Storm (XGE) - *Goliath*
-- Phoenix (Custom) - *Sun Elf*
 - Winter Child (custom) - *Ice Elf*
+- Phoenix (Custom) - *Sun Elf*
 - Tremere (custom) - check, much RL 
 ## Warlock
 - Archfey
 - ~~Celestial~~
 - Fiend
 - Great Old One
-- Hexblade (XGE) - check, remove as it is baked in others
 - Undying (SCAG/UA) - check, weak
-- Fathomless (TCE) - check, Great Old One 
 - Noble Genie (TCE custom) - custom
+- Hexblade (XGE / UA) - new UA is not related
+- Fathomless (TCE) - check, Great Old One 
 ## Wizard
 - Abjurer
 - Diviner
 - Evoker
 - Illusionist
-- Conjuration (2014) - This is weak in flavor
 - Enchantment (2014) - This should be nice
 - Necromancer (2014) - This needs an overhaul
-- Transmutation (2014) - This is too generic
-- War Magic (XGE) - Check if viable
 - Bladesinger (TCE / UA) - UA version is almost there - Elf
+- Transmutation (2014) - This is too generic
+- Conjuration (2014) - This is weak in flavor
+- War Magic (XGE) - Check if viable

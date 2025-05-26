@@ -290,13 +290,13 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 {{</ features_table >}}
 {{</ fancy_border >}}
 
-<!-- ### --> <!-- subclasses -->
+<!-- ### <!-- subclasses
 
 ## Battlerager
 
 {{< figure src="images/classes/brb_battlerager.png" class="subclass" >}}
 
-<!-- ## -->
+<!-- ##
 
 Original:
 ### Restriction: Dwarves Only
@@ -370,3 +370,5 @@ Alternatively, if there is no creature on your way during the charge but you enc
 Beginning at 14th level, you become immune to magical effects that should reduce your speed or immobilize you when you are raging. Moreover, when you use the Ruthless Bull's Charge feature while raging, you ignore difficult terrains and you gain resistance to all damage types until the end of your movement.
 
 **Battlerager Armor (lvl 3)** When you choose this path at 3rd level, you gain the ability to use spiked armor as a weapon. While you are wearing spiked armor and are raging, you can use a bonus action to make one melee weapon attack with your armor spikes at a target within 5 feet of you. If the attack hits, the spikes deal 1d4 piercing damage. You use your Strength modifier for the attack and damage rolls. Additionally, when you use the Attack action to grapple or shove a creature, the target takes 3 piercing damage if your check succeeds. **Craft of War (lvl 3)** You gain proficiency in Smith's Tools if you haven't already. You can modify armor you wear as part of a long rest to treat it as Spiked Armor while retaining any benefits the armor has. Doing so removes the spikes from your previous armor unless you have the stock of iron needed to craft new ones.   **Reckless Abandon (lvl 6)** Beginning at 6th level, when you use Reckless Attack while raging, you also gain temporary hit points equal to your Constitution modifier (minimum of 1). They vanish if any of them are left when your rage ends.   **Spiked Retribution (lvl 10)** You can now benefit from your rage bonuses and fast movement while wearing heavy armor. When a creature within 5 feet of you hits you with a melee attack, the attacker takes 3 piercing damage if you are raging, aren't incapacitated, and are wearing spiked armor.   **RAMMING SPEED !!(lvl 14)** As a bonus action you may Dash. As part of this unique Dash action you may Ram into enemies' space as long as you've ran at least 15 feet in one direction towards them. You roll your Athletics contested by the creatures Athletics or Acrobatics (they choose), If you succeed the creature is either knocked prone or pushed 5 feet in a direction away from you (your choice) and they take damage equal to your Strenth Modifier (minimum of 1). If you fail then the creature remains in place and your Ram ends where you connected with them. Once you've succeeded a Ram you may continue moving and Ram additional targets. Ramming uses your speed and cannot exceed it. You can only Ram creatures of 2 size classes larger than you or creatures smaller than those classes.
+
+-->

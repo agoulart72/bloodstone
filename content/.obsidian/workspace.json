@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/bard.md",
+                "file": "posts/Pantheon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bard"
+              "title": "Pantheon"
             }
           }
         ]
@@ -181,6 +181,7 @@
   },
   "active": "0bfb9402c3ffaaae",
   "lastOpenFiles": [
+    "classes/bard.md",
     "classes/barbarian.md",
     "rules/skills.md",
     "rules",

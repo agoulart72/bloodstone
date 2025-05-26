@@ -2,48 +2,48 @@ Gods are not omniscient. They rely on prayers to learn what is happening in the 
 Gods are not omnipotent either. They channel their actions through clerics and believers.
 
 
-|           |        |          |                          |                                                |            |            |
-| --------- | ------ | -------- | ------------------------ | ---------------------------------------------- | ---------- | ---------- |
-| Andur     | LG (M) | Life     | War                      | Honor and Justice                              | Anuire     |            |
-| Mitra     | LG (M) | Light    | Tempest                  | Sunfire, Light                                 | Khinassi   |            |
-| Selune    | NG (F) | Life     | Trickery                 | Moon, Magic                                    | Elves      |            |
-| Lugh      | NG (M) | Life     | Knowledge                | Arts, Trade, Travel - Lugus / Mercury / Hermes | Halflings  | Bards      |
-| Ishtar    | CG (F) | Light    | Love                     | Love, Passion                                  |            |            |
-| Bast      | CG (F) | -        | -                        | Animals                                        | Therion    | Rangers    |
-| Valkor    | LN (M) | Forge    | Light                    | Fire, Craft, Smith                             | Dwarves    |            |
-| Morrigan  | LN (F) | Grave    | War                      | Death, War                                     | Brechtur   |            |
-| Gaia      | TN (F) | -        | -                        | Nature                                         | Rjurik     | Druids     |
-| Thalassa  | TN (F) | -        | -                        | Oceans                                         |            | Sea Druids |
-| Crom      | CN (M) | -        | -                        | War                                            |            |            |
-| Laverna   | CN (F) | Chaos    | Trickery                 | Lies, Chaos                                    |            |            |
-| Kriesha   | LE (F) | Order    | Tempest                  | Winter                                         | Vos        |            |
-| Golgoroth | LE (M) | Tempest  | War                      | Dragons, Blood (Xoloti, Tlaloc, Karthatok)     | Dragonborn |            |
-| Arioch    | NE (M) | Darkness | Trickery                 | Darkness (Raven)                               |            |            |
-| Serqet    | NE (M) | -        | -                        | Secrets, Undead                                |            | Warlocks   |
-| Tiamat    | CE (F) | -        | -                        | Mother of Monsters                             |            |            |
-| Dagon     | CE (M) | -        | -                        | Void                                           | Sea Elves  | Warlocks   |
+|           |        |         |           |                                                |            |            |
+| --------- | ------ | ------- | --------- | ---------------------------------------------- | ---------- | ---------- |
+| Andur     | LG (M) | Order   | War       | Honor and Justice                              | Anuire     |            |
+| Mitra     | LG (M) | Light   | Knowledge | Sunfire, Light                                 | Khinassi   |            |
+| Selune    | NG (F) | Life    | Trickery  | Moon, Magic                                    | Elves      |            |
+| Lugh      | NG (M) | Life    | Knowledge | Arts, Trade, Travel - Lugus / Mercury / Hermes | Halflings  | Bards      |
+| Ishtar    | CG (F) | Life    | Light     | Love, Passion                                  |            |            |
+| Bast      | CG (F) | -       | -         | Animals                                        | Therion    | Rangers    |
+| Valkor    | LN (M) | Light   | Tempest   | Fire, Craft, Smith                             | Dwarves    |            |
+| Morrigan  | LN (F) | Grave   | War       | Death, War                                     | Brechtur   |            |
+| Gaia      | TN (F) | -       | -         | Nature                                         | Rjurik     | Druids     |
+| Thalassa  | TN (F) | -       | -         | Oceans                                         |            | Sea Druids |
+| Crom      | CN (M) | -       | -         | War                                            |            |            |
+| Laverna   | CN (F) | Chaos   | Trickery  | Lies, Chaos                                    |            |            |
+| Kriesha   | LE (F) | Order   | Tempest   | Winter                                         | Vos        |            |
+| Golgoroth | LE (M) | Tempest | War       | Dragons, Blood (Xoloti, Tlaloc, Karthatok)     | Dragonborn |            |
+| Arioch    | NE (M) | Grave   | Trickery  | Darkness (Raven)                               |            |            |
+| Serqet    | NE (M) | -       | -         | Secrets, Undead                                |            | Warlocks   |
+| Tiamat    | CE (F) | -       | -         | Mother of Monsters                             |            |            |
+| Dagon     | CE (M) | -       | -         | Void                                           | Sea Elves  | Warlocks   |
 
 
-| Domain          |                            |                             |
-| --------------- | -------------------------- | --------------------------- |
-| Life            | Andur, Lugh, Selune        |                             |
-| Light           | Mitra, Ishtar, Valkor      |                             |
-| Trickery        | Selune, Laverna, Arioch    |                             |
-| War             | Andur, Morrigan, Golgor    |                             |
-| Tempest         | Mitra, Kriesha, Golgor     | [2014] Needs update to 2024 |
-| Knowledge       | Lugh                       | [2014] Mix with Arcana ?    |
-| Forge           | Valkor                     | [XGE] - Update              |
-| Grave           | Morrigan                   | [XGE] - Update              |
-| ~~Arcana~~      |                            | [SCAG]                      |
-| Order           | Kriesha                    | [TCE]                       |
-| ~~Death~~       |                            | [DMG]                       |
-| ~~Protection~~  |                            | [UA]                        |
-| Chaos           | Laverna                    |                             |
-| Darkness        | Arioch                     | Needs adjustment            |
-| Love            | Ishtar                     | Needs adjustment            |
-| ~~Destruction~~ |                            | ~ Tempest                   |
-| ~~Hunt~~        |                            | weak                        |
-| ~~Ocean~~       |                            |                             |
+| Domain          |                         |                             |
+| --------------- | ----------------------- | --------------------------- |
+| Life            | Lugh, Selune, Ishtar    |                             |
+| Light           | Mitra, Ishtar, Valkor   |                             |
+| Trickery        | Selune, Laverna, Arioch |                             |
+| War             | Andur, Morrigan, Golgor |                             |
+| Tempest         | Valkor, Kriesha, Golgor | [2014] Needs update to 2024 |
+| Knowledge       | Mitra, Lugh             | [2014] Mix with Arcana ?    |
+| ~~Forge~~       |                         | [XGE] - Update              |
+| Grave           | Morrigan, Arioch        | [XGE] - Update              |
+| ~~Arcana~~      |                         | [SCAG]                      |
+| Order           | Andur, Kriesha          | [TCE]                       |
+| ~~Death~~       |                         | [DMG]                       |
+| ~~Protection~~  |                         | [UA]                        |
+| Chaos           | Laverna                 |                             |
+| ~~Darkness~~    | Arioch                  | Needs adjustment            |
+| ~~Love~~        | Ishtar                  | Needs adjustment            |
+| ~~Destruction~~ |                         | ~ Tempest                   |
+| ~~Hunt~~        |                         | weak                        |
+| ~~Ocean~~       |                         |                             |
 
 
 

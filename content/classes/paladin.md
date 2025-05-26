@@ -190,8 +190,14 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 {{< figure src="images/classes/pld_conquest.png" class="subclass" >}}
 
-<!-- ### --><!-- subclasses -->
+<!-- ### <!-- subclasses
 
 ### Oath of the Illrigger
 
 {{< figure src="images/classes/pld_illrigger.png" class="subclass" >}}
+-->
+<!-- ### --><!-- subclasses -->
+
+### Oath of Slaughter
+
+{{< figure src="images/classes/pld_slaughter.png" class="subclass" >}}

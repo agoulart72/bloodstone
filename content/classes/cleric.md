@@ -172,12 +172,12 @@ You can call on even more powerful divine intervention. When you use your Divine
 
 {{< figure src="images/classes/clr_tempest_3.png" class="subclass" >}}
 
-<!-- ### --><!-- subclasses -->
+<!-- ### <!-- subclasses -->
 
-### Forge Domain 
+<!-- ### Forge Domain 
 
 {{< figure src="images/classes/clr_forge_2.png" class="subclass" >}}
-
+-->
 <!-- ### --><!-- subclasses -->
 ### Grave Domain 
 
@@ -194,13 +194,13 @@ You can call on even more powerful divine intervention. When you use your Divine
 
 {{< figure src="images/classes/clr_chaos.png" class="subclass" >}}
 
-<!-- ### --><!-- subclasses -->
-### Darkness Domain 
+<!-- ### <!-- subclasses -->
+<!-- ### Darkness Domain 
 
 {{< figure src="images/classes/clr_darkness_4.png" class="subclass" >}}
-
-<!-- ### --><!-- subclasses -->
-### Love Domain 
+-->
+<!-- ### <!-- subclasses -->
+<!-- ### Love Domain 
 
 {{< figure src="images/classes/clr_love.png" class="subclass" >}}
-
+-->
